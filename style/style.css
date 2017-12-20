@@ -1,0 +1,135 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* HEADER */
+
+#products-back {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: #fff;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    animation-delay: 0.5s;
+    animation-duration: 4s;
+}
+
+.products-header {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    background-color: #43484E;
+}
+
+/* NAVIGATION */
+
+.affix {
+  top: 0;
+  width: 100%;
+  z-index: 9999 !important;
+}
+
+.affix + .container {
+  padding-top: 70px;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+/* DETAILS */
+
+.products-main {
+    padding: 0;
+}
+
+.products-menu {
+    padding-top: 10px;
+}
+
+.products-content {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.products-content > .product-details > .tab-content {
+    margin: 30px 10px;
+}
+
+.products-content > .product-details > .tab-content > #specification > .specification-title {
+    margin-bottom: 20px;
+}
+
+.products-content > .product-details > .tab-content > #specification > .specification-description {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.products-content > .product-details > .tab-content > #specification > .clear {
+    clear: both;
+}
+
+.products-content > .product-details > .tab-content > #specification > .table {
+    margin-top: 30px;
+}
+
+.products-content > .product-details > .tab-content > #specification > .specification-extra {
+    clear: both;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+.products-content > .product-details > .tab-content > #specification > .specification-description > img {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 5px;
+    max-width: 300px;
+}
+
+.products-content > .product-details > .tab-content > #gallery .img-exaple {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.products-content > .product-details > .tab-content > #gallery .img-exaple > img {
+    border: 1px solid grey;
+    padding: 4px;
+    display: block;
+    margin: 0 auto;
+    max-width: 380px;
+}
+
+p.product-link {
+    font-style: italic;
+}
+
+.table > tbody > tr > td.product-param-value {
+    text-align: center;
+}
+
+.table > tbody > tr > th.product-param-value {
+    text-align: center;
+}
+
+.product-details-default {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.product-details-default > img {
+    display: block;
+    margin: 30px auto;
+}

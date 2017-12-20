@@ -1,13 +1,11 @@
 {
-  "name": "redux-simple-starter",
+  "name": "mdach",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Oferta sprzedażowa",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
-    "test:watch": "npm run test -- --watch"
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "author": "",
   "license": "ISC",
@@ -31,7 +29,8 @@
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
-    "react-router": "^2.0.1",
+    "react-router": "^4.0.0",
+    "react-router-dom": "^4.0.0",
     "redux": "^3.0.4"
   }
 }

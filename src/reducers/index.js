@@ -1,7 +1,12 @@
 import { combineReducers } from 'redux';
+import ContextReducer from './context-reducer'
+import ProductReducer from './product-reducer';
+import ProductSelectedReducer from './product-selected-reducer'
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  context: ContextReducer,
+  products: ProductReducer,
+  selectedProduct: ProductSelectedReducer
 });
 
 export default rootReducer;
