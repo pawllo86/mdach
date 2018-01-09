@@ -1,0 +1,57 @@
+ [
+    {
+        "id": 1,
+        "name": "Diament Plus", 
+        "producer": "Blachotrapez", 
+        "description": "Tradycyjny wzór blachodachówki Diament Plus sprawia, że pokryte nią dachy prezentują się wyjątkowo szlachetnie. Model ten został zaprojektowany tak, aby idealnie przylegać i minimalizować ilość odpadu blachy. Montaż tej blachodachówki, dzięki jej dużej plastyczności, jest łatwy i bezproblemowy. Wysokość przetłoczenia w tym modelu wynosi 20mm, a wydajność krycia - 1045mm rzeczywistej szerokości krycia na 1150mm.",
+        "comments": "Źródło: https: //www.blachotrapez.eu/pl/prtm/8/diament-plus",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "1 150 mm"},
+            {"name": "Szerokość krycia rzeczywistego", "value": "1 045 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia uskoku dachówki", "value": "20 mm"},
+            {"name": "Wysokość profilu", "value": "34 mm"},
+            {"name": "Długość modułu dachówki", "value": "850 mm"},
+            {"name": "Minimalna długość arkusza", "value": "850 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "5 750 mm"}
+        ],
+        "image": "blachotrapez/diament-plus.png",
+        "examples": ["blachotrapez/diament-plus-example.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Diament Eco Plus", 
+        "producer": "Blachotrapez", 
+        "description": "Blachodachówka Diament Eco Plus wyróżnia się wyjątkową formą. Wysokość przetłoczenia wynosi 14mm. Podobnie jak wszystkie blachodachówki produkowane przez Blachotrapez, Diament Eco Plus charakteryzuje się dużą szerokością krycia rzeczywistego, które wynosi 1120mm na 1200mm blachodachówki.",
+        "comments": "Źródło: https: //www.blachotrapez.eu/pl/prtm/16/diament-eco-plus",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "1 200 mm"},
+            {"name": "Szerokość krycia efektywnego", "value": "1 120 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia uskoku dachówki", "value": "14 mm"},
+            {"name": "Wysokość profilu", "value": "22 mm"},
+            {"name": "Długość modułu", "value": "350/400 mm"},
+            {"name": "Min. długość arkusza", "value": "850/950 mm"},
+            {"name": "Max. długość arkusza", "value": "5 750 mm"}
+        ],
+        "image": "blachotrapez/diament-eco-plus.png",
+        "examples": ["blachotrapez/diament-eco-plus-example1.jpg", "blachotrapez/diament-eco-plus-example2.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Tysenia", 
+        "producer": "Blachotrapez", 
+        "description": "Jednomodułowa blachodachówka TYSENIA to nowoczesne rozwiązanie dachowe dla inwestorów poszukujących wyjątkowego efektu wizualnego połaci. Minimalistyczny, surowy wygląd blachodachówki harmonizuje z aktualnymi trendami architektonicznymi, a płaski kształt gwarantuje uniwersalne zastosowanie. Prostolinijną formę TYSENII zdobi finezyjne potrójne przetłoczenie, a jej cechą charakterystyczną jest niski – 2,5 milimetrowy profil. TYSENIA może być montowana zarówno jako pokrycie dachowe, jak i oryginalne wykończenie elewacji. Ponadto płaska blachodachówka jest lekka, dzięki czemu sprawdzi się idealnie nie tylko w nowoczesnym budownictwie, ale również w przypadku renowacji dachów starych budynków. Produkt dostępny jest w trzech powłokach, zarówno w wersji matowej, jak i z połyskiem: Pladur® Wrinkle MAT thyssenkrupp, Pladur® Relief iceCrystal thyssenkrupp, Colorcoat HPS200® Ultra Tata Steel oraz w bogatej gamie kolorystycznej.",
+        "comments": "Źródło: https: //www.blachotrapez.eu/pl/prtm/960/tysenia",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "1 236 mm"},
+            {"name": "Szerokość krycia", "value": "1 198 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość profilu (głębokość usztywnień)", "value": "2,5 mm"},
+            {"name": "Długość modułu", "value": "350 mm"},
+            {"name": "Wysokość uskoku dachówki", "value": "850 mm"}
+        ],
+        "image": "blachotrapez/tysenia.png",
+        "examples": ["blachotrapez/tysenia-example1.jpg", "blachotrapez/tysenia-example2.jpg", "blachotrapez/tysenia-example3.jpg", "blachotrapez/tysenia-example4.jpg"]
+    }
+]
