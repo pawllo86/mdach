@@ -3,7 +3,11 @@ import { connect } from 'react-redux';
 
 class ProductDetails extends Component {
     
-    imgBaseURL = '../img/products/';
+    imgBaseURL = '/img/products/';
+
+    constructor(props) {
+        super(props);
+    }
     
     renderSpecification(params) {
         return params.map((param => {
@@ -27,14 +31,14 @@ class ProductDetails extends Component {
     }
     
     render() {
-        const product = this.props.selectedProduct;
+        const { product } = this.props;
         
         if (!product) {
             return  (
                 <div className="product-details-default">
-                    <img src="../img/blachotrapez.jpg" alt="Blachotrapez producent blachodachówki"/>
-                    <img src="../img/budmat.png" alt="Bud-Mat producent blachodachówki"/>
-                    <img src="../img/ruukki.png" alt="Ruukki producent blachodachówki"/>
+                    <img src="/img/blachotrapez.jpg" alt="Blachotrapez producent blachodachówki"/>
+                    <img src="/img/budmat.png" alt="Bud-Mat producent blachodachówki"/>
+                    <img src="/img/ruukki.png" alt="Ruukki producent blachodachówki"/>
                 </div>
             )
         }
@@ -52,7 +56,7 @@ class ProductDetails extends Component {
                         <hr/>
                         <div className="specification-description">
                             <img src={this.imgBaseURL + product.image} alt={product.producer + " " + product.name} />
-                            <p>{product.descroption}</p>
+                            <p>{product.description}</p>
                         </div>
             
                         <div className="clear"></div> 
@@ -75,7 +79,7 @@ class ProductDetails extends Component {
                     </div>
                     <div id="gallery" className="tab-pane fade">
                         <div className="row">
-                            {this.renderExamples(product.exaples)}
+                            {this.renderExamples(product.examples)}
                         </div>
                     </div>
                 </div>
@@ -84,9 +88,9 @@ class ProductDetails extends Component {
     }
 }
 
-function mapStateToProps(state) {
+function mapStateToProps({ products }, ownProps) {
     return {
-        selectedProduct: state.selectedProduct
+        product: products[ownProps.params.id]
     }
 }
 

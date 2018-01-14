@@ -42,17 +42,38 @@ body {
 }
 
 .affix + .container {
-  padding-top: 70px;
+  padding-top: 100px;
 }
 
 .navbar {
     border-radius: 0;
 }
 
+.navbar .nav.navbar-nav .selected {
+    color: #fff;
+    background:  #BB0000;
+} 
+
+/* MENU */
+
+.products-menu .panel-group .panel-body a {
+    color: #43484E;
+}
+.products-menu .panel-group .panel-body a.selected {
+    color:  #BB0000;
+}
+
+.panel-default > .panel-heading {
+    background-color: #222;
+    color: #fff;
+    text-transform: uppercase;
+}
+
 /* DETAILS */
 
 .products-main {
     padding: 0;
+    padding-top: 30px;
 }
 
 .products-menu {
@@ -131,5 +152,29 @@ p.product-link {
 
 .product-details-default > img {
     display: block;
-    margin: 30px auto;
+    margin: 20px auto;
+}
+
+/* CARD */
+
+.thumbnail > hr {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.thumbnail > img {
+    max-height: 240px;
+    min-height: 240px;
+    overflow: hidden;
+}
+
+.thumbnail > .caption {
+    color: #fff;
+    background-color: #222;
+}
+.thumbnail > .caption > p.buttons {
+    text-align: right;
+}
+.thumbnail > .caption > p.buttons > .btn-primary {
+    background-color: #BB0000;
+    border-color: #BB0000;
 }

@@ -1,32 +1,26 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import { selectMenuItem } from '../actions/index';
 
 
-class Navigation extends Component {
+export default class Navigation extends Component {
     
     render() {
         return (
             <nav className="navbar navbar-inverse" data-spy="affix" data-offset-top="300">
                 <div className="container">
                     <ul className="nav navbar-nav">
-                        <li onClick={() => this.props.selectMenuItem('BLACHODACHOWKA')}><Link to="/blachodachowka">Blachodachówka</Link></li>
-                        <li onClick={() => this.props.selectMenuItem('TRAPEZOWA')}><Link to="/trapezowa">Blacha trapezowa</Link></li>
-                        <li onClick={() => this.props.selectMenuItem('DACHOWKA')}><Link to="/dachowka">Dachówka</Link></li>
-                        <li onClick={() => this.props.selectMenuItem('RYNNY')}><Link to="/rynny">Rynny</Link></li>
-                        <li onClick={() => this.props.selectMenuItem('AKCESORIA')}><Link to="/akcesoria">Akcesoria</Link></li>
-                        <li onClick={() => this.props.selectMenuItem('USLUGI')}><Link to="/uslugi">Usługi</Link></li>
+                        <li><NavLink to="/blachodachowka" activeClassName="selected">Blachodachówka</NavLink></li>
+                        <li><NavLink to="/trapezowa" activeClassName="selected">Blacha trapezowa</NavLink></li>
+                        <li><NavLink to="/dachowka" activeClassName="selected">Dachówka</NavLink></li>
+                        <li><NavLink to="/rynny" activeClassName="selected">Rynny</NavLink></li>
+                        <li><NavLink to="/akcesoria" activeClassName="selected">Akcesoria</NavLink></li>
+                        <li><NavLink to="/uslugi" activeClassName="selected">Usługi</NavLink></li>
                     </ul>
                 </div>
             </nav>
         );
     }
 }
-
-function mapDispatchToProps(dispatch) {
-    return bindActionCreators({selectMenuItem}, dispatch);
-}
-
-export default connect(null, mapDispatchToProps)(Navigation);

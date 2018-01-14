@@ -1,14 +1,17 @@
-import { MENU_SELECTED, PRODUCT_SELECTED } from './actions';
+import axios from 'axios';
+import { FETCH_PRODUCTS } from './actions';
+import { BLACHODACHOWKA, TRAPEZOWA } from '../components/sections/sections';
 
-export function selectMenuItem(item) {
+export function fetchProducts(section) {
+    const path = dataMap.get(section);
+    const request = axios.get(path);
+    
     return {
-        type: MENU_SELECTED,
-        payload: item
-    }
+      type: 'FETCH_PRODUCTS',
+      payload: request
+    };
 }
-export function selectProduct(product) {
-    return {
-        type: PRODUCT_SELECTED,
-        payload: product
-    }
-}
+
+const dataMap = new Map();
+dataMap.set(BLACHODACHOWKA, '/data/blachodachowka.json');
+dataMap.set(TRAPEZOWA, '/data/trapezowa.json');
