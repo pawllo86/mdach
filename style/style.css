@@ -72,6 +72,7 @@ body {
 /* CONTENT */
 #content {
     margin-bottom: 100px;
+    height: 2000px;
 }
 
 /* MAIN */
@@ -111,6 +112,7 @@ body {
 
 .products-content > .product-details > .tab-content > #specification > .clear {
     clear: both;
+    margin-bottom: 20px;
 }
 
 .products-content > .product-details > .tab-content > #specification > .table {
@@ -151,7 +153,7 @@ p.product-link {
     text-align: center;
 }
 
-.table > tbody > tr > th.product-param-value {
+.table > thead > tr > th.product-param-value-title {
     text-align: center;
 }
 

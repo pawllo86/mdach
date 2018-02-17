@@ -91,41 +91,108 @@
         "id": 98,
         "name": "Scandic Modular", 
         "producer": "Plannja", 
-        "description": "Plannja Flex posiada niepowtarzalny, cofnięty kąt przetłoczenia oraz wysokie 30 mm przetłoczenie z rowkiem w górnej fali dające wyjątkowy efekt wizualny. Załamania światła i cienie powstające w miejscach przetłoczeń sprawiają, że dach nabiera niepowtarzalnego charakteru. Wykorzystanie do montażu specjalnych wkrętów z płaskim łbem typu TORX sprawia, że elementy montażowe są prawie niewidoczne, dzięki czemu dach wygląda elegancko i ekskluzywnie. Dwumodułowa konstrukcja paneli to również zmniejszenie odpadów nawet przy skomplikowanym kształcie dachu. Rozmiar blachodachówki Plannja Flex został dopasowany do potrzeb klientów. Długość i szerokość paneli zamyka się w rozmiarach palety. Dzięki temu wystarczy mały samochód dostawczy, aby dowieźć blachodachówkę Plannja Flex na budowę. Plannja Flex wykonana jest z najwyższej jakości stali. Produkt dostępny jest w dwóch rodzajach powłok: Plannja Hard Coat 50 Glossy oraz Plannja Hard Coat 50 Satyna.",
+        "description": "Plannja Scandic Modular to modułowa blachodachówka o symetrycznym kształcie. Plannja Scandic Modular dzięki modułowej budowie jest szybka i prosta w montażu. Symetryczny kształt profilu charakteryzuje się wysoką wydajnością, a zastosowanie tego rozwiązania pozwala w znaczącym stopniu ograniczyć ilość odpadów. Plannja Scandic Modular to profil dobrze prezentujący się na prostych i skomplikowanych połaciach dachowych.",
         "comments": [
             {
-                "title": "Gdy liczy się wygodne rozwiązanie",
-                "content": "Rozmiar blachodachówki Plannja Flex został dopasowany do potrzeb klientów. Długość i szerokość paneli zamykają się w rozmiarach palety. Dzięki temu wystarczy mały samochód dostawczy, aby dowieźć blachodachówkę Plannja Flex na budowę. Dwumodułowa konstrukcja paneli to również zmniejszenie odpadów nawet przy skomplikowanym kształcie dachu."
-            },
-            {
-                "title": "Stal to podstawa idealnej blachodachówki",
-                "content": "Plannja Flex  wykonana jest z najwyższej jakości stali, do produkcji której wykorzystujemy stal pozyskiwaną z jednych z najczystszych złóż rudy żelaza na świecie."
-            },
-            {
                 "title": "Dachy Plannja to trwałość na lata",
-                "content": "Stal, z której wykonana jest blachodachówka Plannja Flex jest zabezpieczona unikalną 50 µm powłoką Plannja Hard Coat 50 Glossy. Dlatego blachodachówka Plannja Flex objęta jest 30-letnią pisemną gwarancją."
+                "content": "Blachodachówka Plannja Scandic Modular z powłoką Poliester Rough Mat oraz Poliester jest objęta jest 30-letnią pisemną gwarancją."
             }
         ],
-        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-flex/",
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-scandic-modular/",
         "params": [
-            {"name": "Materiał", "value": "stal ocynkowana, powlekana"},
-            {"name": "Powłoka", "value": "Plannja Hard Coat 50 Glossy"},
+            {"name": "Powłoka", "value": "Poliester Rough Mat | Poliester"},
             {"name": "Grubość rdzenia", "value": "0,5 mm"},
-            {"name": "Warstwa cynku", "value": "275 g/m²"},
-            {"name": "Tłoczenie", "value": "30 mm"},
-            {"name": "Wysokość całkowita", "value": "55 mm"},
-            {"name": "Masa panelu", "value": "3,85 kg/m²"},
-            {"name": "Długość modułu dachówki", "value": "350 mm"},
-            {"name": "Efektywna szerokość panelu", "value": "1100 mm"},
-            {"name": "Całkowita szerokość panelu", "value": "1185 mm"},
-            {"name": "Efektywna długość panelu", "value": "700 mm"},
-            {"name": "Całkowita długość panelu", "value": "745 mm"},
-            {"name": "Powierzchnia efektywna panelu", "value": "0,77 m²/sztuka"},
-            {"name": "Minimalny spadek", "value": "14°"},
-            {"name": "Gwarancja", "value": "30 lat (SSAB)"}
+            {"name": "Tłoczenie", "value": "47,5 mm"},
+            {"name": "Długość dachówki", "value": "350 mm"},
+            {"name": "Szerokość dachówki", "value": "229 mm"},
+            {"name": "Długość arkusza", "value": "745 mm"},
+            {"name": "Szerokość arkusza", "value": "1190 mm"},
+            {"name": "Szerokość krycia", "value": "1145 mm"},
+            {"name": "Minimalny spadek", "value": "9°"}
         ],
-        "image": "plannja/flex.jpeg",
-        "examples": ["plannja/flex-example.jpg", "plannja/flex-example1.jpg"]
+        "image": "plannja/scandic-modular.jpeg",
+        "examples": ["plannja/scandic-modular-example.jpeg"]
+    },
+    {
+        "id": 97,
+        "name": "Scandic Line", 
+        "producer": "Plannja", 
+        "description": "Plannja Scandic Line to blachodachówka o symetrycznym kształcie. Plannja Scandic Line posiada wysokie tłocznie, tradycyjną 35 centymetrową długość modułów oraz wyrazisty profil nadający jej eleganckiego i niepowtarzalnego wyglądu. Cechy te sprawiają, że Plannja Scandic Line doskonale prezentuje się na każdym dachu, a w szczególności na dachach o większym kącie nachylenia.",
+        "comments": [
+            {
+                "title": "Dachy Plannja to trwałość na lata",
+                "content": "Blachodachówka Plannja Scandic Line z powłoką Poliester Rough Mat oraz Poliester jest objęta jest 30-letnią pisemną gwarancją."
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-scandic/",
+        "params": [
+            {"name": "Powłoka", "value": "Poliester Rough Mat | Poliester"},
+            {"name": "Grubość rdzenia", "value": "0,5 mm"},
+            {"name": "Tłoczenie", "value": "47,5 mm"},
+            {"name": "Długość dachówki", "value": "350 mm"},
+            {"name": "Szerokość dachówki", "value": "229 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6800 mm"},
+            {"name": "Szerokość arkusza", "value": "1190 mm"},
+            {"name": "Szerokość krycia", "value": "1145 mm"},
+            {"name": "Minimalny spadek", "value": "9°"}
+        ],
+        "image": "plannja/scandic-line.jpeg",
+        "examples": ["plannja/scandic-line-example.jpeg"]
+    },
+    {
+        "id": 96,
+        "name": "Regent Grand", 
+        "producer": "Plannja", 
+        "description": "Plannja Regent Grand to blachodachówka o wyrazistym profilu. Plannja Regent Grand została zaprojektowana z myślą o klientach ceniących tradycyjny kształt blachodachówki. Jest bardzo dobrze znanym i cenionym przez użytkowników profilem blachodachówki z podwyższonym tłoczeniem. Stosunkowo nieduże wymiary poszczególnych modułów blachodachówki sprawiają, że profil prezentuje się elegancko na dachach zarówno o małym, jak i dużym spadku. Dodatkowo cięcie arkuszy po fali sprawia, że dach nabiera wyrazistego charakteru, dzięki czemu doskonale sprawdzi się na klasycznych domach jak i w nowoczesnych projektach.",
+        "comments": [
+            {
+                "title": "Dachy Plannja to trwałość na lata",
+                "content": "Blachodachówka Plannja Scandic Modular w zależności od powłoki zapewnia wieloletnią pisemną gwarancją. 50 lat - Plannja Hard Coat 50 Glossy, 40 lat - Plannja Hard Coat 50 Satyna, 30 lat - Poliester Rough Mat, 30 lat - Poliester."
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-regent/",
+        "params": [
+            {"name": "Powłoka", "value": "Plannja Hard Coat 50 Satyna | Plannja Hard Coat 50 Glossy | Poliester Rough Mat | Poliester"},
+            {"name": "Grubość rdzenia", "value": "0,5 mm"},
+            {"name": "Tłoczenie", "value": "54 mm"},
+            {"name": "Długość dachówki", "value": "350 mm"},
+            {"name": "Szerokość dachówki", "value": "183,3 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8200 mm"},
+            {"name": "Szerokość arkusza", "value": "1180 mm"},
+            {"name": "Szerokość krycia", "value": "1100 mm"},
+            {"name": "Minimalny spadek", "value": "9°"}
+        ],
+        "image": "plannja/regent-grand.jpeg",
+        "examples": ["plannja/regent-grand-example.jpeg"]
+    },
+    {
+        "id": 95,
+        "name": "Smart", 
+        "producer": "Plannja", 
+        "description": "Plannja Smart to uniwersalna blachodachówka na każdy typ dachu. Plannja Smart to blachodachówka charakteryzująca się subtelnym i symetrycznym profilem tłoczenia, sprawdzającym się na wszystkich typach dachów. Plannja Smart to połączenie atrakcyjnej ceny z bardzo długą gwarancją, dzięki czemu produkt jest doskonałym rozwiązaniem dla klientów szukających wysokiej jakości w rozsądnej cenie.",
+        "comments": [
+            {
+                "title": "Dachy Plannja to trwałość na lata",
+                "content": "Blachodachówka Plannja Scandic Modular w zależności od powłoki zapewnia wieloletnią pisemną gwarancją. 40 lat - Plannja Hard Coat 50 Satyna, 30 lat - Poliester Rough Mat, 30 lat - Poliester."
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-smart/",
+        "params": [
+            {"name": "Powłoka", "value": "Plannja Hard Coat 50 Satyna | Poliester Rough Mat | Poliester"},
+            {"name": "Grubość rdzenia", "value": "0,5 mm"},
+            {"name": "Tłoczenie", "value": "45,5 mm"},
+            {"name": "Długość dachówki", "value": "350 mm"},
+            {"name": "Szerokość dachówki", "value": "186,7 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6800 mm"},
+            {"name": "Szerokość arkusza", "value": "1188 mm"},
+            {"name": "Szerokość krycia", "value": "1120 mm"},
+            {"name": "Minimalny spadek", "value": "9°"}
+        ],
+        "image": "plannja/smart.jpeg",
+        "examples": ["plannja/smart-example.jpeg"]
     },
     {
         "id": 4,

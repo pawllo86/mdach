@@ -4,7 +4,7 @@
         "name": "Classic", 
         "producer": "Ruukki", 
         "description": "Ruukki Classic, z profilem przypominającym tradycyjny dach z rąbkiem, to wysokiej jakości pokrycie o unikalnym wyglądzie. To skromny, ale szykowny i ponadczasowy wybór, odpowiedni dla różnych stylów architektonicznych. Zaawansowana technologia łączenia gwarantuje, że dach może być szybko i łatwo położony bez potrzeby użycia specjalistycznych narzędzi. Pokrycie dachowe Classic to także doskonały wybór dla dachów o małym kącie nachylenia. Cechą tego pokrycia jest wytłaczana struktura, dzięki czemu każdy dach Ruukki Classic zyskuje unikalny styl. Blacha na rąbek stojący Classic dostępna jest w klasie jakości Ruukki 50 Plus i Ruukki 40.",
-        "comments": "Źródło: https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/classic-c",
+        "link": "https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/classic-c",
         "params": [
             {"name": "Wysokość rąbka", "value": "32 mm"},
             {"name": "Szerokość efektywna", "value": "475 mm"},
@@ -21,7 +21,7 @@
         "name": "Classic Silence", 
         "producer": "Ruukki", 
         "description": "Ta wersja klasycznej blachy dachowej zaprojektowana została dla odbiorców oczekujących od swoich dachów wszystkiego, co najlepsze. Pokrycie to łączy w sobie wszystkie zalety dachu Classic™, takie jak ponadczasowy i elegancki wygląd, najwyższa jakość i trwałość. Cechą tego pokrycia jest jego wytłaczana struktura, która nadaje mu świeży styl oraz zwiększa sztywność każdego arkusza. Dodatkową zaletą dachu Classic Silence jest specjalna włóknina aplikowana na spodniej części arkusza, która zwiększa izolację akustyczną całego dachu. Blacha na rąbek stojący Classic Silence, w klasie jakości Ruukki 50 Plus, objęta jest 50-letnią gwarancją techniczną i 20-letnią gwarancją estetyczną.",
-        "comments": "Źródło: https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/classic-c-sr35-475c-silence",
+        "link": "https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/classic-c-sr35-475c-silence",
         "params": [
             {"name": "Wysokość rąbka", "value": "32 mm"},
             {"name": "Szerokość efektywna", "value": "475 mm"},

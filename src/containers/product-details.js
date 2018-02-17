@@ -58,8 +58,8 @@ class ProductDetails extends Component {
         return (
             <div className="product-details">
                 <ul className="nav nav-tabs">
-                    <li className="active"><a data-toggle="tab" href="#specification">Szczegóły techniczne</a></li>
-                    <li><a data-toggle="tab" href="#gallery">Galeria</a></li>
+                    <li className="active"><a data-toggle="tab" data-target="#specification">Szczegóły techniczne</a></li>
+                    <li><a data-toggle="tab" data-target="#gallery">Galeria</a></li>
                 </ul>
 
                 <div className="tab-content">
@@ -74,12 +74,13 @@ class ProductDetails extends Component {
                         <div className="clear"></div>
             
                         {this.renderComments(product.comments)}
-                                    
+                        <hr/>
+                            
                         <table className="table table-striped">
                             <thead>
                               <tr>
-                                <th>Parametr techniczny produktu</th>
-                                <th className="product-param-value">Wartość</th>
+                                <th>PARAMETR TECHNICZNY PRODUKTU</th>
+                                <th className="product-param-value-title">WARTOŚĆ</th>
                               </tr>
                             </thead>
                             <tbody>
