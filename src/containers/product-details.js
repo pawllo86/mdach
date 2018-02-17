@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import ImageViewer from 'react-image-viewer-zoom';
+import 'react-image-viewer-zoom/dist/style.css';
 
 class ProductDetails extends Component {
     
