@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
+import Producers from '../components/producers';
 import { connect } from 'react-redux';
-import ImageViewer from 'react-image-viewer-zoom';
-import 'react-image-viewer-zoom/dist/style.css';
 
 class ProductDetails extends Component {
     
@@ -10,39 +9,50 @@ class ProductDetails extends Component {
     constructor(props) {
         super(props);
     }
+
+    renderComments(comments) {
+        if (comments) {
+            return comments.map((comment => {
+                return (
+                    <div className="well well-sm">
+                        <h6><span className="glyphicon glyphicon-info-sign" /><b> {comment.title}</b></h6>
+                        <p className="small">{comment.content}</p>
+                    </div>
+                );
+            }));
+        }
+    }
     
     renderSpecification(params) {
-        return params.map((param => {
-            return (
-                <tr key={param.name}>
-                    <td>{param.name}</td>
-                    <td className="product-param-value">{param.value}</td>
-                </tr>
-            );
-        }));
+        if (params) {
+            return params.map((param => {
+                return (
+                    <tr key={param.name}>
+                        <td>{param.name}</td>
+                        <td className="product-param-value">{param.value}</td>
+                    </tr>
+                );
+            }));
+        }
     }
     
     renderExamples(examples) {
-        return examples.map((example) => {
-            return (
-                <div key={example} className="col-md-6 img-exaple">
-                    <img src={this.imgBaseURL + example} alt="Przykład użycia produktu" />
-                </div>
-            );
-        });
+        if (examples) {
+            return examples.map((example) => {
+                return (
+                    <div key={example} className="col-md-6 img-exaple">
+                        <img src={this.imgBaseURL + example} alt="Przykład użycia produktu" />
+                    </div>
+                );
+            });
+        }
     }
     
     render() {
         const { product } = this.props;
         
         if (!product) {
-            return  (
-                <div className="product-details-default">
-                    <img src="/img/ruukki.png" alt="Ruukki producent blachodachówki"/>
-                    <img src="/img/blachotrapez.jpg" alt="Blachotrapez producent blachodachówki"/>
-                    <img src="/img/budmat.png" alt="Bud-Mat producent blachodachówki"/>
-                </div>
-            )
+            return  <Producers />
         }
         
         return (
@@ -61,7 +71,9 @@ class ProductDetails extends Component {
                             <p>{product.description}</p>
                         </div>
             
-                        <div className="clear"></div> 
+                        <div className="clear"></div>
+            
+                        {this.renderComments(product.comments)}
                                     
                         <table className="table table-striped">
                             <thead>
@@ -76,8 +88,8 @@ class ProductDetails extends Component {
                         </table>
 
                         <div className="specification-extra">
-                            <p className="product-link">{product.comments}</p>
-                        </div> 
+                            <a href={product.link}>Przejdź do strony producenta <span className="glyphicon glyphicon-play"/></a>
+                        </div>
                     </div>
                     <div id="gallery" className="tab-pane fade">
                         <div className="row">
