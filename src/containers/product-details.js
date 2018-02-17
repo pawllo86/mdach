@@ -36,9 +36,9 @@ class ProductDetails extends Component {
         if (!product) {
             return  (
                 <div className="product-details-default">
+                    <img src="/img/ruukki.png" alt="Ruukki producent blachodachówki"/>
                     <img src="/img/blachotrapez.jpg" alt="Blachotrapez producent blachodachówki"/>
                     <img src="/img/budmat.png" alt="Bud-Mat producent blachodachówki"/>
-                    <img src="/img/ruukki.png" alt="Ruukki producent blachodachówki"/>
                 </div>
             )
         }

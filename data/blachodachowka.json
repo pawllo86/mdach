@@ -1,6 +1,60 @@
  [
     {
         "id": 1,
+        "name": "Finnera", 
+        "producer": "Ruukki", 
+        "description": "Innowacyjny model stalowego pokrycia dachowego Finnera® sprawia, że Twój dach jest nie tylko piękny, ale także wyjątkowo trwały i praktyczny. Nowatorskie wyprofilowanie przedniej krawędzi arkusza umożliwia uzyskanie zadziwiająco gładkiej powierzchni dachu bez widocznych połączeń. Modułowy, wysokiej jakości dach, możesz otrzymać prosto z magazynu w postaci kompletnego pakietu, gwarantującego łatwy, sprawny i błyskawiczny montaż. Dzięki temu masz więcej czasu dla swoich bliskich. Blachodachówka Finnera jest produktem odpowiednim zarówno dla prostych, dwuspadowych dachów, jak i bardziej skomplikowanych konstrukcji. Finnera, w klasie jakości Ruukki 40, objęta jest 40-letnią gwarancją techniczną i 15-letnią gwarancją estetyczną.",
+        "comments": "Źródło: https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/finnera",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 190 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 140 mm"},
+            {"name": "Wysokość modułu", "value": "52 mm"},
+            {"name": "Długość modułu", "value": "330 mm"},
+            {"name": "Długość całkowita arkusza", "value": "685 mm"},
+            {"name": "Długość efektywna arkusza", "value": "660 mm"},
+            {"name": "Powierzchnia efektywna arkusza", "value": "0,75 m2"}
+        ],
+        "image": "ruukki/finnera.jpg",
+        "examples": ["ruukki/finnera-example.jpg"]
+    },
+    {
+        "id": 12,
+        "name": "Adamante", 
+        "producer": "Ruukki", 
+        "description": "Dach Adamante™ został stworzony dla tych, którzy szukają sposobu na podkreślenie wyjątkowego charakteru swojego domu. Łatwy zakup, łatwy montaż, łatwe użytkowanie - tak jak każda blachodachówka Ruukki, Adamante zaprojektowano po to, aby Twoje życie stało się łatwiejsze. Blachodachówka Adamante dostępna jest w klasie jakości Ruukki 50 Plus, Ruukki 40 i Ruukki 30.",
+        "comments": "Źródło: https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/adamante",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 153 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 125 mm"},
+            {"name": "Wysokość modułu", "value": "55 mm"},
+            {"name": "Długość modułu", "value": "350 mm"},
+            {"name": "Długość maksymalna", "value": "8200 mm"},
+            {"name": "Długość długość minimalna", "value": "850 mm"},
+            {"name": "Minimalny spadek dachu", "value": "9 stopni"}
+        ],
+        "image": "ruukki/adamante.jpg",
+        "examples": ["ruukki/adamante-example1.jpg", "ruukki/adamante-example2.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Monterrey Feb Forma", 
+        "producer": "Ruukki", 
+        "description": "Ruukki Monterrey jest naszym najpopularniejszym modelem i doskonale pasuje do najróżniejszych krajobrazów i typów domów. Dzięki kształtnej fali i wysokiemu tłoczeniu nadaje dachowi wyjątkowy charakter. Te trwałe i popularne dachy oferowane są teraz z innowacyjną krawędzią startową FEB Forma® w dwóch klasach jakości. FEB Forma (Front Edge Bending) to unikalna technologia opatentowana przez Ruukki, która sprawia, że dach wygląda niezwykle efektownie. Podgięta krawędź startowa arkusza daje efekt perfekcyjnego wykończenia dachu. Technologia FEB Forma opracowana przez Ruukki to nie tylko atrakcyjny wygląd, ale również zwiększona trwałość. Zagięcie krawędzi pod profil skutecznie zabezpiecza ją przed działaniem deszczu i innych czynników atmosferycznych. Blachodachówka Monterrey FEB Forma dostępna jest w klasie jakości Ruukki 40 oraz Ruukki 30.",
+        "comments": "Źródło: https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/monterrey-feb-forma",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 180 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 100 mm"},
+            {"name": "Wysokość modułu", "value": "44 mm"},
+            {"name": "Długość modułu", "value": "350 mm"},
+            {"name": "Długość maksymalna", "value": "8000 mm"},
+            {"name": "Długość długość minimalna", "value": "800 mm"},
+            {"name": "Minimalny spadek dachu", "value": "9 stopni"}
+        ],
+        "image": "ruukki/monterrey.jpg",
+        "examples": ["ruukki/monterrey-example1.jpg", "ruukki/monterrey-example2.jpg"]
+    },
+    {
+        "id": 4,
         "name": "Diament Plus", 
         "producer": "Blachotrapez", 
         "description": "Tradycyjny wzór blachodachówki Diament Plus sprawia, że pokryte nią dachy prezentują się wyjątkowo szlachetnie. Model ten został zaprojektowany tak, aby idealnie przylegać i minimalizować ilość odpadu blachy. Montaż tej blachodachówki, dzięki jej dużej plastyczności, jest łatwy i bezproblemowy. Wysokość przetłoczenia w tym modelu wynosi 20mm, a wydajność krycia - 1045mm rzeczywistej szerokości krycia na 1150mm.",
@@ -19,7 +73,7 @@
         "examples": ["blachotrapez/diament-plus-example.jpg"]
     },
     {
-        "id": 2,
+        "id": 5,
         "name": "Diament Eco Plus", 
         "producer": "Blachotrapez", 
         "description": "Blachodachówka Diament Eco Plus wyróżnia się wyjątkową formą. Wysokość przetłoczenia wynosi 14mm. Podobnie jak wszystkie blachodachówki produkowane przez Blachotrapez, Diament Eco Plus charakteryzuje się dużą szerokością krycia rzeczywistego, które wynosi 1120mm na 1200mm blachodachówki.",
@@ -38,7 +92,7 @@
         "examples": ["blachotrapez/diament-eco-plus-example1.jpg", "blachotrapez/diament-eco-plus-example2.jpg"]
     },
     {
-        "id": 3,
+        "id": 6,
         "name": "Tysenia", 
         "producer": "Blachotrapez", 
         "description": "Jednomodułowa blachodachówka TYSENIA to nowoczesne rozwiązanie dachowe dla inwestorów poszukujących wyjątkowego efektu wizualnego połaci. Minimalistyczny, surowy wygląd blachodachówki harmonizuje z aktualnymi trendami architektonicznymi, a płaski kształt gwarantuje uniwersalne zastosowanie. Prostolinijną formę TYSENII zdobi finezyjne potrójne przetłoczenie, a jej cechą charakterystyczną jest niski – 2,5 milimetrowy profil. TYSENIA może być montowana zarówno jako pokrycie dachowe, jak i oryginalne wykończenie elewacji. Ponadto płaska blachodachówka jest lekka, dzięki czemu sprawdzi się idealnie nie tylko w nowoczesnym budownictwie, ale również w przypadku renowacji dachów starych budynków. Produkt dostępny jest w trzech powłokach, zarówno w wersji matowej, jak i z połyskiem: Pladur® Wrinkle MAT thyssenkrupp, Pladur® Relief iceCrystal thyssenkrupp, Colorcoat HPS200® Ultra Tata Steel oraz w bogatej gamie kolorystycznej.",
@@ -55,7 +109,7 @@
         "examples": ["blachotrapez/tysenia-example1.jpg", "blachotrapez/tysenia-example2.jpg", "blachotrapez/tysenia-example3.jpg", "blachotrapez/tysenia-example4.jpg"]
     },
     {
-        "id": 4,
+        "id": 7,
         "name": "Talia", 
         "producer": "Blachotrapez", 
         "description": "Pragniemy Państwu zaprezentować nowy model blachodachówki w naszym firmowym portfolio. Produkt swoją nazwę „Talia” zawdzięcza wyjątkowo pięknej formie, która przywodzi na myśl sylwetkę kobiety. Blachodachówka Talia to piękny kształt i oryginalne przetłoczenie, które stwarzają duże możliwości plastyczne w kształtowaniu połaci dachowej. To cechy, które wyróżniają ją na tle innych blachodachówek na rynku.",
@@ -74,7 +128,7 @@
         "examples": ["blachotrapez/talia-example2.jpg", "blachotrapez/talia-example3.jpg"]
     },
     {
-        "id": 5,
+        "id": 8,
         "name": "Germania Simetric", 
         "producer": "Blachotrapez", 
         "description": "Unikalne, potrójne przetłoczenia blachodachówki Germania Simetric gwarantują większe usztywnienie blachy, zapewniając jednocześnie podatność na obróbkę plastyczną. Wyprofilowane naroża umożliwiają natomiast idealne dopasowanie do siebie arkuszy, czyniąc produkt prostym i wygodnym w obsłudze. Ten model blachodachówki modułowej charakteryzuje duża praktyczność, ale także walory estetyczne, gdyż oryginalny wzór i połysk blachodachówki Germania Simetric sprawia, że produkt ten jest bardzo podobny do dachówki ceramicznej.",
@@ -93,7 +147,7 @@
         "examples": ["blachotrapez/germania-example1.jpg", "blachotrapez/germania-example2.jpg"]
     },
     {
-        "id": 6,
+        "id": 9,
         "name": "Kingas", 
         "producer": "Blachotrapez", 
         "description": "Model Kingas wyróżnia się efektownym wzorem przypominającym delikatne fale. Wysokość przetłoczenia uskoku dachówki wynosi 20mm. Szerokość krycia rzeczywistego blachodachówki Kingas to 1100mm na 1195mm szerokości produktu.",
@@ -112,7 +166,7 @@
         "examples": ["blachotrapez/kingas-example1.jpg", "blachotrapez/kingas-example2.jpg"]
     },
     {
-        "id": 7,
+        "id": 10,
         "name": "Kingas 15", 
         "producer": "Blachotrapez", 
         "description": "Kingas 15 to blachodachówka o klasycznym wzorze delikatnej fali. Niewysokie przetłoczenia uskoku blachodachówki sprawiają, że jest bardzo plastycznym materiałem, a jej montaż nawet na najbardziej skomplikowanych konstrukcjach dachowych nie sprawia problemów. Szerokość krycia rzeczywistego to 1100mm pokrycia dachu na 1195mm blachodachówki, dzięki czemu model ten jest nie tylko praktyczny i efektowny, ale i ekonomiczny.",
@@ -131,7 +185,7 @@
         "examples": ["blachotrapez/kingas-example1.jpg", "blachotrapez/kingas-example2.jpg"]
     },
     {
-        "id": 8,
+        "id": 11,
         "name": "Kingas Eco Plus", 
         "producer": "Blachotrapez", 
         "description": "Model blachodachówki Kingas Eco Plus to blachodachówka o mniejszym przetłoczeniu uskoku (14mm), dzięki czemu wyróżnia się wysokimi parametrami szerokości krycia rzeczywistego - 1195mm daje 1120mm krycia rzeczywistego dachu. Blachodachówka Kingas dzięki formie delikatnej fali doskonale prezentuje się na dachu.",
@@ -150,7 +204,7 @@
         "examples": ["blachotrapez/kingas-example1.jpg", "blachotrapez/kingas-example2.jpg"]
     },
     {
-        "id": 9,
+        "id": 12,
         "name": "Venecja", 
         "producer": "Bud-Mat", 
         "description": "5 dolnych fal i 6 wierzchołków sprawiają, że Venecja podkreśla urodę klasycznych budynków. Montaż ze spinką - stosowany tylko w dachu modułowym Venecja - to gwarancja najbardziej estetycznego pokrycia dachowego. Dzięki spince wkręty mocujące są niewidoczne. Venecja to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. ",
@@ -170,7 +224,7 @@
         "examples": ["budmat/venecja-example.jpg", "budmat/venecja-example2.jpg"]
     },
     {
-        "id": 10,
+        "id": 13,
         "name": "Murano", 
         "producer": "Bud-Mat", 
         "description": "Designerski kształt dla śmiałych budynków. 5 płaskich powierzchni i 6 wypukłych fal sprawiają, że Murano to synonim nowoczesności. Murano to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy. ",
@@ -190,7 +244,7 @@
         "examples": ["budmat/murano-example.jpg"]
     },
     {
-        "id": 11,
+        "id": 14,
         "name": "Rialto", 
         "producer": "Bud-Mat", 
         "description": "Rialto stworzy dach, który doda klasy każdemu budynkowi. Wyróżnia go 5 fal dolnych i 5 fal górnych. Elegancja to Rialto. Rialto to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. Korzystamy tylko z najlepszych materiałów. Naszymi dostawcami są ArcelorMittal – największy producent stali na świecie oraz SSAB – szwedzka huta o światowym zasięgu. Stal oodlega recyklingowi w 100% i można ją przetwarzać w nieskończoność. To czyni ją jednym z najbardziej przyjaznych środowisku materiałów.",
@@ -210,7 +264,7 @@
         "examples": ["budmat/rialto-example.jpg"]
     },
     {
-        "id": 12,
+        "id": 15,
         "name": "Bella Sara", 
         "producer": "Bud-Mat", 
         "description": "6 fal dolnych i 7 wierzchołków sprawiają, że Bella Sara to piękno i uroda dla każdego budynku. Bella Sara posiada najmniejsze arkusze spośród wszystkich dachów modułowych Budmat. To sprawia, że montaż dachu jest najbardziej oszczędny. Bella Sara to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat.",
@@ -230,7 +284,7 @@
         "examples": ["budmat/bella-sara-example.jpg"]
     },
     {
-        "id": 13,
+        "id": 16,
         "name": "Ferrara", 
         "producer": "Bud-Mat", 
         "description": "Wygląd Ferrary - 4 fale dolne i 5 wierzchołków - przywodzi na myśl klasyczne dachy z ceramiki. Ferrara to elita wśród dachów. Każda powłoka Ferrary to gwarancja powtarzalność koloru - niezależnie od partii materiału. Jako jedyni w Europie posiadamy pisemną gwarancję powtarzalności koloru od ArcelorMittal oraz od SSAB. Ferrara to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 30 lub 50 lat.",
@@ -248,23 +302,5 @@
         ],
         "image": "budmat/ferrara.jpg",
         "examples": ["budmat/ferrara-example.jpg"]
-    },
-    {
-        "id": 14,
-        "name": "Finnera", 
-        "producer": "Ruukki", 
-        "description": "Innowacyjny model stalowego pokrycia dachowego Finnera® sprawia, że Twój dach jest nie tylko piękny, ale także wyjątkowo trwały i praktyczny. Nowatorskie wyprofilowanie przedniej krawędzi arkusza umożliwia uzyskanie zadziwiająco gładkiej powierzchni dachu bez widocznych połączeń. Modułowy, wysokiej jakości dach, możesz otrzymać prosto z magazynu w postaci kompletnego pakietu, gwarantującego łatwy, sprawny i błyskawiczny montaż. Dzięki temu masz więcej czasu dla swoich bliskich. Blachodachówka Finnera jest produktem odpowiednim zarówno dla prostych, dwuspadowych dachów, jak i bardziej skomplikowanych konstrukcji. Finnera, w klasie jakości Ruukki 40, objęta jest 40-letnią gwarancją techniczną i 15-letnią gwarancją estetyczną.",
-        "comments": "Źródło: https: //www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/finnera",
-        "params": [
-            {"name": "Szerokość całkowita arkusza", "value": "1 190 mm"},
-            {"name": "Szerokość efektywna arkusza", "value": "1 140 mm"},
-            {"name": "Wysokość modułu", "value": "52 mm"},
-            {"name": "Długość modułu", "value": "330 mm"},
-            {"name": "Długość całkowita arkusza", "value": "685 mm"},
-            {"name": "Długość efektywna arkusza", "value": "660 mm"},
-            {"name": "Powierzchnia efektywna arkusza", "value": "0,75 m2"}
-        ],
-        "image": "ruukki/finnera.jpg",
-        "examples": ["ruukki/finnera-example.jpg"]
     }
 ]

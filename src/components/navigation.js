@@ -14,6 +14,7 @@ export default class Navigation extends Component {
                     <ul className="nav navbar-nav">
                         <li><NavLink to="/blachodachowka" activeClassName="selected">Blachodachówka</NavLink></li>
                         <li><NavLink to="/trapezowa" activeClassName="selected">Blacha trapezowa</NavLink></li>
+                        <li><NavLink to="/rabek" activeClassName="selected">Blacha na rąbek</NavLink></li>
                         <li><NavLink to="/dachowka" activeClassName="selected">Dachówka</NavLink></li>
                         <li><NavLink to="/rynny" activeClassName="selected">Rynny</NavLink></li>
                         <li><NavLink to="/akcesoria" activeClassName="selected">Akcesoria</NavLink></li>

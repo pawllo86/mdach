@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { FETCH_PRODUCTS } from './actions';
-import { BLACHODACHOWKA, TRAPEZOWA } from '../components/sections/sections';
+import { BLACHODACHOWKA, TRAPEZOWA, RABEK } from '../components/sections/sections';
 
 export function fetchProducts(section) {
     const path = dataMap.get(section);
@@ -15,3 +15,4 @@ export function fetchProducts(section) {
 const dataMap = new Map();
 dataMap.set(BLACHODACHOWKA, '/data/blachodachowka.json');
 dataMap.set(TRAPEZOWA, '/data/trapezowa.json');
+dataMap.set(RABEK, '/data/rabek.json');

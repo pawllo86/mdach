@@ -11,6 +11,7 @@ import Navigation from './components/navigation';
 import Main from './components/sections/main';
 import Blachodachowka from './components/sections/blachodachowka';
 import Trapezowa from './components/sections/trapezowa';
+import Rabek from './components/sections/rabek';
 import Dachowka from './components/sections/dachowka';
 import Rynny from './components/sections/rynny';
 import Akcesoria from './components/sections/akcesoria';
@@ -28,7 +29,10 @@ ReactDOM.render(
                 <Switch>
                     <Route path="/blachodachowka/:id" component={Blachodachowka} />
                     <Route path="/blachodachowka" component={Blachodachowka} />
+                    <Route path="/trapezowa/:id" component={Trapezowa} />
                     <Route path="/trapezowa" component={Trapezowa} />
+                    <Route path="/rabek/:id" component={Rabek} />
+                    <Route path="/rabek" component={Rabek} />
                     <Route path="/dachowka" component={Dachowka} />
                     <Route path="/rynny" component={Rynny} />
                     <Route path="/akcesoria" component={Akcesoria} />
