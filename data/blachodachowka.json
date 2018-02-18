@@ -14,7 +14,7 @@
             {"name": "Długość efektywna arkusza", "value": "660 mm"},
             {"name": "Powierzchnia efektywna arkusza", "value": "0,75 m2"}
         ],
-        "image": "ruukki/finnera.jpg",
+        "image": "ruukki/finnera2.jpg",
         "examples": ["ruukki/finnera-example.jpg"]
     },
     {
@@ -443,5 +443,35 @@
         ],
         "image": "budmat/ferrara.jpg",
         "examples": ["budmat/ferrara-example.jpg"]
+    },
+    {
+        "id": 17,
+        "name": "Classic", 
+        "producer": "Novatik", 
+        "description": "Blachodachówka panelowa powstała jako odpowiedź na zmieniające się trendy w branży budowlanej, która od zawsze dążyła do stosowania jak najprostszych, ale wyjątkowo skutecznych rozwiązań. Wobec wyzwań na współczesnym rynku budowlanym blachodachówki wychodzą obronną ręką. Z jednej strony są bardzo ekonomiczne i niebywale proste w montażu, a z drugiej potrafią zachwycić swoją formą oraz odpornością na wszelkie czynniki zewnętrzne. Szczególnie przydatne są na dachach o skomplikowanych kształtach, gdzie nie da się zastosować z taką łatwością tradycyjnych, produkowanych na wymiar blachodachówek arkuszowych czy modułowych. To właśnie w takich przypadkach blacha panelowa może pokazać wszystkie swoje możliwości. Przy odpowiedniej wiedzy i dobrym projekcie mogą zostać zmontowane w najbardziej wymyślne kształty bez inwestowania (czasu i pieniędzy) w dodatkową pracę. Dodatkową zaletą blachodachówek panelowych jest ich łatwość w transporcie i rozładunku. Docenią to wszyscy, którzy w swojej karierze musieli się uporać z innymi, niewygodnymi w dostarczaniu oraz montażu pokryciami dachowymi.",
+        "comments": [
+            {
+                "title": "Nowoczesna, uniwersalna estetyka",
+                "content": "Tworzone przez nas panele z blachodachówek posiadają oryginalne wzornictwo i odznaczają się wysokimi walorami estetycznymi. Szczególnie dbamy o to, aby można było je dopasować do każdego stylu budownictwa – od tradycyjnych do współczesnych – zarówno pod względem kształtów, jak i kolorystyki, którą można dobrać na podstawie proponowanej przez nas palety barw. Dzięki temu znacznie łatwiej dokonać wyboru sprawdzającego się w każdym projekcie budynku."
+            },
+            {
+                "title": "Gwarancja trwałości",
+                "content": "Wszystkie blachy panelowe w naszej ofercie są dokładnie sprawdzane przed oddaniem do sprzedaży. Dzięki temu zyskujemy pewność, że produkt trafiający do klienta nie ma żadnych skaz i będzie mógł bezproblemowo służyć przez długie lata. Do osiągnięcia tego celu stosujemy również specjalne powłoki antykorozyjne, dzięki którym blacha nie traci na swojej odporności oraz wyglądzie niezależnie od różnych czynników zewnętrznych, na jakie może być narażona. Wliczają się w to zarówno wahania temperatur (np. silne mrozy, które powodują pękanie tradycyjnych dachówek ceramicznych lub betonowych lub upały, które mogą złuszczyć materiał) jak i niekorzystnie silny wiatr. Nasze blachodachówki panelowe są skonstruowane w taki sposób, aby nawet wichura o prędkości do 215 km/h nie naruszyła struktury dachu. Jest to możliwe dzięki zastosowaniu nowoczesnej technologii przy projektowaniu naszych paneli."
+            }
+        ],
+        "link": "http://www.novatik.pl/produkty",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 190 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 133 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia", "value": "35 mm"},
+            {"name": "Wysokość fali", "value": "30 mm"},
+            {"name": "Wysokość całkowita", "value": "65 mm"},
+            {"name": "Długość całkowita arkusza", "value": "845 mm"},
+            {"name": "Długość efektywna arkusza", "value": "800 mm"},
+            {"name": "Długość modułu", "value": "400 mm"}
+        ],
+        "image": "novatik/novatik-classic.jpg",
+        "examples": ["novatik/novatik-classic-example.jpg"]
     }
 ]
