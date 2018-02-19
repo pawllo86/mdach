@@ -15,8 +15,8 @@ class ProductDetails extends Component {
             return comments.map((comment => {
                 return (
                     <div className="well well-sm">
-                        <h6><span className="glyphicon glyphicon-info-sign" /><b> {comment.title}</b></h6>
-                        <p className="small">{comment.content}</p>
+                        <h5><span className="glyphicon glyphicon-info-sign" /><b> {comment.title}</b></h5>
+                        <p>{comment.content}</p>
                     </div>
                 );
             }));
