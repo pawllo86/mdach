@@ -275,7 +275,7 @@
             {"name": "Min. długość arkusza", "value": "720 mm"},
             {"name": "Max. długość arkusza", "value": "5 970 mm"}
         ],
-        "image": "blachotrapez/talia.png",
+        "image": "blachotrapez/talia.jpg",
         "examples": ["blachotrapez/talia-example2.jpg", "blachotrapez/talia-example3.jpg"]
     },
     {

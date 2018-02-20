@@ -32,6 +32,7 @@ p {
     right: 20px;
     animation-delay: 0.5s;
     animation-duration: 4s;
+    z-index: 99999;
 }
 
 .products-header {
