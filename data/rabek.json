@@ -13,8 +13,8 @@
             {"name": "Długość minimalna", "value": "800 mm"},
             {"name": "Minimalny spadek dachu", "value": "8 stopni"}
         ],
-        "image": "ruukki/classic.jpg",
-        "examples": ["ruukki/classic-example.jpg"]
+        "image": "ruukki/rabek/classic.jpg",
+        "examples": ["ruukki/rabek/classic-example.jpg"]
     },
     {
          "id": 2,
@@ -30,7 +30,7 @@
             {"name": "Długość minimalna", "value": "800 mm"},
             {"name": "Minimalny spadek dachu", "value": "8 stopni"}
         ],
-        "image": "ruukki/classic-silence.jpg",
-        "examples": ["ruukki/classic-silence-example.jpg"]
+        "image": "ruukki/rabek/classic-silence.jpg",
+        "examples": ["ruukki/rabek/classic-silence-example.jpg"]
     }
 ]

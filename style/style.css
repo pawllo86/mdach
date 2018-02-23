@@ -207,6 +207,11 @@ p.product-link {
     color: #fff;
     background-color: #222;
 }
+
+.thumbnail > .caption > h3, .thumbnail > .caption > p {
+    color: #fff;
+}
+
 .thumbnail > .caption > p.buttons {
     text-align: right;
 }
@@ -227,13 +232,6 @@ footer {
     color: #fff;
     font-size: 27px;
     font-weight: 700;
-}
-
-#contact-info {
-    background-image: url(../img/contact-bg.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
 }
 
 #contact-left p {
@@ -260,4 +258,12 @@ address strong,
     text-align: center;
     margin: 0;
     color: #fff;
+}
+
+#contact-map {
+    height: 323px;
+}
+
+#map {
+    height: 100%;
 }

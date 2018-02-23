@@ -15,7 +15,7 @@ class ProductDetails extends Component {
         if (comments) {
             return comments.map((comment => {
                 return (
-                    <div className="well well-sm">
+                    <div className="well well-sm" key={comment.title}>
                         <h5><span className="glyphicon glyphicon-info-sign" /><b> {comment.title}</b></h5>
                         <p>{comment.content}</p>
                     </div>
