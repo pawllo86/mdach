@@ -73,14 +73,14 @@ p {
 /* MENU */
 
 .products-menu .panel-group .panel-body a {
-    color: #43484E;
+    color: #000;
 }
 .products-menu .panel-group .panel-body a.selected {
     color:  #BB0000;
 }
 
 .panel-default > .panel-heading {
-    background-color: #222;
+    background-color: #43484E;
     color: #fff;
     text-transform: uppercase;
 }
@@ -205,7 +205,7 @@ p.product-link {
 
 .thumbnail > .caption {
     color: #fff;
-    background-color: #222;
+    background-color: #43484E;
 }
 
 .thumbnail > .caption > h3, .thumbnail > .caption > p {
