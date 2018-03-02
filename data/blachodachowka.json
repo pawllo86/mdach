@@ -24,14 +24,20 @@
             {"name": "Długość efektywna arkusza", "value": "660 mm"},
             {"name": "Powierzchnia efektywna arkusza", "value": "0,75 m2"}
         ],
-        "image": "ruukki/finnera.jpg",
-        "examples": ["ruukki/finnera-example.jpg"]
+        "image": "ruukki/blachodachowka/finnera.jpg",
+        "examples": ["ruukki/blachodachowka/finnera-example.jpg", "ruukki/blachodachowka/finnera-example2.jpg", "ruukki/blachodachowka/finnera-example3.jpg", "ruukki/blachodachowka/finnera-example4.jpg"]
     },
     {
         "id": 2,
         "name": "Adamante", 
         "producer": "Ruukki", 
         "description": "Dach Adamante™ został stworzony dla tych, którzy szukają sposobu na podkreślenie wyjątkowego charakteru swojego domu. Łatwy zakup, łatwy montaż, łatwe użytkowanie - tak jak każda blachodachówka Ruukki, Adamante zaprojektowano po to, aby Twoje życie stało się łatwiejsze. Blachodachówka Adamante dostępna jest w klasie jakości Ruukki 50 Plus, Ruukki 40 i Ruukki 30.",
+        "comments": [
+            {
+                "title": "Klasa jakości",
+                "content": "Klasa jakości Ruukki 50 Plus oznacza 50 lat gwarancji technicznej oraz 20 lat gwarancji estetycznej. Klasa jakości Ruukki 40 oznacza 40 lat gwarancji technicznej oraz 15 lat gwarancji estetycznej. Klasa jakości Ruukki 30 oznacza 30 lat gwarancji technicznej oraz 10 lat gwarancji estetycznej."
+            }
+        ],
         "link": "https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/adamante",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 153 mm"},
@@ -42,14 +48,20 @@
             {"name": "Długość długość minimalna", "value": "850 mm"},
             {"name": "Minimalny spadek dachu", "value": "9 stopni"}
         ],
-        "image": "ruukki/adamante.jpg",
-        "examples": ["ruukki/adamante-example1.jpg", "ruukki/adamante-example2.jpg"]
+        "image": "ruukki/blachodachowka/adamante.jpg",
+        "examples": ["ruukki/blachodachowka/adamante-example1.jpg", "ruukki/blachodachowka/adamante-example2.jpg", "ruukki/blachodachowka/adamante-example3.jpg", "ruukki/blachodachowka/adamante-example4.jpg"]
     },
     {
         "id": 3,
         "name": "Monterrey Feb Forma", 
         "producer": "Ruukki", 
         "description": "Ruukki Monterrey jest naszym najpopularniejszym modelem i doskonale pasuje do najróżniejszych krajobrazów i typów domów. Dzięki kształtnej fali i wysokiemu tłoczeniu nadaje dachowi wyjątkowy charakter. Te trwałe i popularne dachy oferowane są teraz z innowacyjną krawędzią startową FEB Forma® w dwóch klasach jakości. FEB Forma (Front Edge Bending) to unikalna technologia opatentowana przez Ruukki, która sprawia, że dach wygląda niezwykle efektownie. Podgięta krawędź startowa arkusza daje efekt perfekcyjnego wykończenia dachu. Technologia FEB Forma opracowana przez Ruukki to nie tylko atrakcyjny wygląd, ale również zwiększona trwałość. Zagięcie krawędzi pod profil skutecznie zabezpiecza ją przed działaniem deszczu i innych czynników atmosferycznych. Blachodachówka Monterrey FEB Forma dostępna jest w klasie jakości Ruukki 50, Ruukki 40 oraz Ruukki 30.",
+        "comments": [
+            {
+                "title": "Klasa jakości",
+                "content": "Klasa jakości Ruukki 50 Plus oznacza 50 lat gwarancji technicznej oraz 20 lat gwarancji estetycznej. Klasa jakości Ruukki 40 oznacza 40 lat gwarancji technicznej oraz 15 lat gwarancji estetycznej. Klasa jakości Ruukki 30 oznacza 30 lat gwarancji technicznej oraz 10 lat gwarancji estetycznej."
+            }
+        ],
         "link": "https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/monterrey-feb-forma",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 180 mm"},
@@ -60,8 +72,8 @@
             {"name": "Długość długość minimalna", "value": "800 mm"},
             {"name": "Minimalny spadek dachu", "value": "9 stopni"}
         ],
-        "image": "ruukki/monterrey.jpg",
-        "examples": ["ruukki/monterrey-example1.jpg", "ruukki/monterrey-example2.jpg"]
+        "image": "ruukki/blachodachowka/monterrey.jpg",
+        "examples": ["ruukki/blachodachowka/monterrey-example1.jpg", "ruukki/blachodachowka/monterrey-example2.jpg", "ruukki/blachodachowka/monterrey-example3.jpg"]
     },
     {
         "id": 4,
@@ -94,8 +106,8 @@
             {"name": "Szerokość krycia", "value": "1100 mm"},
             {"name": "Minimalny spadek", "value": "9°"}
         ],
-        "image": "plannja/flex.jpeg",
-        "examples": ["plannja/flex-example.jpeg", "plannja/flex-example1.jpeg"]
+        "image": "plannja/blachodachowka/flex.jpeg",
+        "examples": ["plannja/blachodachowka/flex-example.jpeg", "plannja/blachodachowka/flex-example2.jpeg", "plannja/blachodachowka/flex-example1.jpeg", "plannja/blachodachowka/flex-example3.jpeg"]
     },
     {
         "id": 5,
@@ -105,7 +117,7 @@
         "comments": [
             {
                 "title": "Dachy Plannja to trwałość na lata",
-                "content": "Blachodachówka Plannja Scandic Modular z powłoką Poliester Rough Mat oraz Poliester jest objęta jest 30-letnią pisemną gwarancją."
+                "content": "Blachodachówka Plannja Scandic Modular z powłoką Poliester Rough Mat oraz Poliester objęta jest 30-letnią pisemną gwarancją."
             }
         ],
         "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-scandic-modular/",
@@ -120,8 +132,8 @@
             {"name": "Szerokość krycia", "value": "1145 mm"},
             {"name": "Minimalny spadek", "value": "9°"}
         ],
-        "image": "plannja/scandic-modular.jpeg",
-        "examples": ["plannja/scandic-modular-example.jpeg"]
+        "image": "plannja/blachodachowka/scandic-modular.jpeg",
+        "examples": ["plannja/blachodachowka/scandic-modular-example.jpeg"]
     },
     {
         "id": 6,
@@ -131,7 +143,7 @@
         "comments": [
             {
                 "title": "Dachy Plannja to trwałość na lata",
-                "content": "Blachodachówka Plannja Scandic Line z powłoką Poliester Rough Mat oraz Poliester jest objęta jest 30-letnią pisemną gwarancją."
+                "content": "Blachodachówka Plannja Scandic Line z powłoką Poliester Rough Mat oraz Poliester objęta jest 30-letnią pisemną gwarancją."
             }
         ],
         "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blachodachowka/plannja-scandic/",
@@ -147,8 +159,8 @@
             {"name": "Szerokość krycia", "value": "1145 mm"},
             {"name": "Minimalny spadek", "value": "9°"}
         ],
-        "image": "plannja/scandic-line.jpeg",
-        "examples": ["plannja/scandic-line-example.jpeg"]
+        "image": "plannja/blachodachowka/scandic-line.jpeg",
+        "examples": ["plannja/blachodachowka/scandic-line-example.jpeg"]
     },
     {
         "id": 7,
@@ -174,8 +186,8 @@
             {"name": "Szerokość krycia", "value": "1100 mm"},
             {"name": "Minimalny spadek", "value": "9°"}
         ],
-        "image": "plannja/regent-grand.jpeg",
-        "examples": ["plannja/regent-grand-example.jpeg"]
+        "image": "plannja/blachodachowka/regent-grand.jpeg",
+        "examples": ["plannja/blachodachowka/regent-grand-example.jpeg"]
     },
     {
         "id": 8,
@@ -201,8 +213,8 @@
             {"name": "Szerokość krycia", "value": "1120 mm"},
             {"name": "Minimalny spadek", "value": "9°"}
         ],
-        "image": "plannja/smart.jpeg",
-        "examples": ["plannja/smart-example.jpeg"]
+        "image": "plannja/blachodachowka/smart.jpeg",
+        "examples": ["plannja/blachodachowka/smart-example.jpeg"]
     },
     {
         "id": 9,
@@ -220,8 +232,8 @@
             {"name": "Minimalna długość arkusza", "value": "850 mm"},
             {"name": "Maksymalna długość arkusza", "value": "5 750 mm"}
         ],
-        "image": "blachotrapez/diament-plus.png",
-        "examples": ["blachotrapez/diament-plus-example.jpg"]
+        "image": "blachotrapez/blachodachowka/diament-plus.jpeg",
+        "examples": ["blachotrapez/blachodachowka/diament-plus-example.jpg"]
     },
     {
         "id": 10,
@@ -239,8 +251,8 @@
             {"name": "Min. długość arkusza", "value": "850/950 mm"},
             {"name": "Max. długość arkusza", "value": "5 750 mm"}
         ],
-        "image": "blachotrapez/diament-eco-plus.png",
-        "examples": ["blachotrapez/diament-eco-plus-example1.jpg", "blachotrapez/diament-eco-plus-example2.jpg"]
+        "image": "blachotrapez/blachodachowka/diament-eco-plus.jpeg",
+        "examples": ["blachotrapez/blachodachowka/diament-eco-plus-example1.jpg", "blachotrapez/blachodachowka/diament-eco-plus-example2.jpg"]
     },
     {
         "id": 11,
@@ -256,8 +268,18 @@
             {"name": "Długość modułu", "value": "350 mm"},
             {"name": "Wysokość uskoku dachówki", "value": "850 mm"}
         ],
-        "image": "blachotrapez/tysenia.png",
-        "examples": ["blachotrapez/tysenia-example1.jpg", "blachotrapez/tysenia-example2.jpg", "blachotrapez/tysenia-example3.jpg", "blachotrapez/tysenia-example4.jpg"]
+        "comments": [
+            {
+                "title": "Po prostu uniwersalna",
+                "content": "TYSENIA jest dostępna jako blachodachówka jednomodułowa i może być układana na dachach o pochyleniach już od 25°. Jednomodułowość umożliwia krycie zarówno w sposób tradycyjny, jak i na cegiełkę, dzięki czemu ograniczamy ilość odpadów przy montażu pokrycia. TYSENIA jest niesymetryczna i powinna być układana od strony lewej do prawej. Dodatkowo posiada niewidoczny system mocowania, dzięki czemu pokryty nią dach prezentuje się wyjątkowo minimalistycznie. Niski profil gwarantuje szeroką powierzchnię krycia, co korzystnie wpływa na ekonomiczność produktu. Udogodnieniem jest także łatwy transport na plac budowy, a następnie na dach. Ponadto dach pokryty TYSENIĄ jest trwały i nie wymaga tak częstych zabiegów konserwacyjnych, jak pokrycie z dachówki ceramicznej."
+            },
+            {
+                "title": "Po prostu doskonała jakość i ochrona dachu",
+                "content": "Nowość w ofercie BLACHOTRAPEZU wyróżnia się wysoką jakością wykonania. Najwyższej klasy blacha, dostarczana przez renomowane koncerny hutnicze: thyssenkrupp – lidera światowego rynku czy TATA STEEL, gwarantuje trwałość na lata. Materiał wsadowy blachodachówki zabezpiecza wyjątkowo trwała powłoka o grubości nawet 200 μm. Dzięki czemu produkt jest wyjątkowo wytrzymały na uszkodzenia mechaniczne i ekstremalne warunki pogodowe, stanowiąc doskonałą ochronę dachu. TYSENIA to precyzja w każdym szczególe i jakość potwierdzona pisemną gwarancją, która może wynosić nawet do 40 lat. Produkt dostępny jest w trzech powłokach, zarówno w wersji matowej, jak i z połyskiem: Pladur Wrinkle® thyssenkrupp, Pladur® Relief iceCrystal thyssenkrupp, Colorcoat HPS200®Ultra Tata Steel oraz w bogatej gamie kolorystycznej."
+            }
+        ],
+        "image": "blachotrapez/blachodachowka/tysenia.jpeg",
+        "examples": ["blachotrapez/blachodachowka/tysenia-example1.jpg", "blachotrapez/blachodachowka/tysenia-example2.jpg", "blachotrapez/blachodachowka/tysenia-example3.jpg", "blachotrapez/blachodachowka/tysenia-example4.jpg"]
     },
     {
         "id": 12,
@@ -275,12 +297,45 @@
             {"name": "Min. długość arkusza", "value": "720 mm"},
             {"name": "Max. długość arkusza", "value": "5 970 mm"}
         ],
-        "image": "blachotrapez/talia.png",
-        "examples": ["blachotrapez/talia-example2.jpg", "blachotrapez/talia-example3.jpg"]
+        "image": "blachotrapez/blachodachowka/talia.jpg",
+        "examples": ["blachotrapez/blachodachowka/talia-example2.jpg", "blachotrapez/blachodachowka/talia-example3.jpg"]
     },
     {
         "id": 13,
         "name": "Germania Simetric", 
+        "producer": "Blachotrapez", 
+        "description": "Precyzja na miarę Twojego dachu. German Simetric – nowa blachodachówka w ofercie Blachotrapezu. German Simetric to precyzja, solidność i klasyczne piękno. Teraz nawet skomplikowane konstrukcje dachowe mogą być wykonane z niezawodnej blachodachówki German Simetric, który będzie chronić Ciebie i Twoją rodzinę przez długie lata.",
+        "comments": [
+            {
+                "title": "Stal najwyższej jakości",
+                "content": "GERMAN SIMETRIC to symetryczna, modułowa blachodachówka, którą Klienci polubią za nowoczesny i atrakcyjny wygląd, a dekarze za łatwy montaż. Dużą zaletą GERMAN SIMETRIC jest też wysoka jakość surowca. Blachotrapez wykorzystuje do produkcji stal pochodzącą z niemieckiej huty thyssenkrupp Steel Europe, światowego lidera branży oraz innych znanych producentów, z którymi współpracuje firma Blachotrapez. Wykonana z najlepszych surowców blachodachówka GERMAN SIMETRIC ma zwiększoną odporność na ścieranie i zabrudzenia oraz wysoką odporność antykorozyjną."
+            },
+            {
+                "title": "Prosty montaż dzięki precyzji",
+                "content": "Tym, co zdecydowanie wyróżnia nowy produkt firmy Blachotrapez jest wyjątkowa precyzja – modułowość i lekkość. GERMAN SIMETRIC pozwala na pokrycie nawet bardzo skomplikowanych dachów. Przekłada się to również na ekonomiczność krycia – podczas montażu wykorzystuje się optymalną liczbę arkuszy bez konieczności częstego przycinania blachodachówek. Połączenie najwyższej jakości surowca z dokładnymi wymiarami gwarantuje szczelność i wieloletnią trwałość pokrycia. W zależności od wyboru powłoki ochronnej, producent udziela na produkt gwarancji nawet do 50 lat (powłoka PLADUR® Wrinkle Mat Plus)."
+            },
+            {
+                "title": "Klasyczny wygląd z podwójnym przetłoczeniem",
+                "content": "Inwestorzy, którym zależy na klasycznym efekcie wizualnym, docenią GERMAN SIMETRIC za tradycyjny wygląd blachodachówki. Stylowa, prostolinijna forma z podwójnym przetłoczeniem, odpowiada na aktualne trendy i podkreśla wygląd domu. Nowoczesna blachodachówka GERMAN SIMETRIC sprawdzi się nie tylko w nowym budownictwie, ale także na dachach starych budynków. Pokrycie dachowe jest dostępne w pełnej gamie kolorystycznej, co daje szeroki wybór zarówno w zakresie realizacji nowoczesnych obiektów, jak i umożliwia odtworzenie pierwotnego wyglądu wiekowych budynków."
+            }
+        ],
+        "link": "https: //www.blachotrapez.eu/pl/prtm/6/germania-simetric-nowosc",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "1 215 mm"},
+            {"name": "Szerokość krycia efektywnego", "value": "1 120 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia uskoku dachówki", "value": "25/30 mm"},
+            {"name": "Wysokość profilu", "value": "20 mm"},
+            {"name": "Długość modułu", "value": "350 mm"},
+            {"name": "Min. długość arkusza", "value": "720 mm"},
+            {"name": "Max. długość arkusza", "value": "5 970 mm"}
+        ],
+        "image": "blachotrapez/blachodachowka/germania.png",
+        "examples": ["blachotrapez/blachodachowka/germania-example1.jpg", "blachotrapez/blachodachowka/germania-example2.jpg"]
+    },
+    {
+        "id": 14,
+        "name": "Germania Simetric II", 
         "producer": "Blachotrapez", 
         "description": "Unikalne, potrójne przetłoczenia blachodachówki Germania Simetric gwarantują większe usztywnienie blachy, zapewniając jednocześnie podatność na obróbkę plastyczną. Wyprofilowane naroża umożliwiają natomiast idealne dopasowanie do siebie arkuszy, czyniąc produkt prostym i wygodnym w obsłudze. Ten model blachodachówki modułowej charakteryzuje duża praktyczność, ale także walory estetyczne, gdyż oryginalny wzór i połysk blachodachówki Germania Simetric sprawia, że produkt ten jest bardzo podobny do dachówki ceramicznej.",
         "link": "https: //www.blachotrapez.eu/pl/prtm/6/germania-simetric-nowosc",
@@ -294,11 +349,11 @@
             {"name": "Min. długość arkusza", "value": "720 mm"},
             {"name": "Max. długość arkusza", "value": "5 970 mm"}
         ],
-        "image": "blachotrapez/germania.png",
-        "examples": ["blachotrapez/germania-example1.jpg", "blachotrapez/germania-example2.jpg"]
+        "image": "blachotrapez/blachodachowka/germania2.jpeg",
+        "examples": ["blachotrapez/blachodachowka/germania-example1.jpg", "blachotrapez/blachodachowka/germania-example2.jpg"]
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Kingas", 
         "producer": "Blachotrapez", 
         "description": "Model Kingas wyróżnia się efektownym wzorem przypominającym delikatne fale. Wysokość przetłoczenia uskoku dachówki wynosi 20mm. Szerokość krycia rzeczywistego blachodachówki Kingas to 1100mm na 1195mm szerokości produktu.",
@@ -313,11 +368,11 @@
             {"name": "Min. długość arkusza", "value": "850/950 mm"},
             {"name": "Max. długość arkusza", "value": "5 750 mm"}
         ],
-        "image": "blachotrapez/kingas.png",
-        "examples": ["blachotrapez/kingas-example1.jpg", "blachotrapez/kingas-example2.jpg"]
+        "image": "blachotrapez/blachodachowka/kingas.jpeg",
+        "examples": ["blachotrapez/blachodachowka/kingas-example1.jpg", "blachotrapez/blachodachowka/kingas-example2.jpg", "blachotrapez/blachodachowka/kingas-example3.jpg", "blachotrapez/blachodachowka/kingas-example4.jpg"]
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Kingas 15", 
         "producer": "Blachotrapez", 
         "description": "Kingas 15 to blachodachówka o klasycznym wzorze delikatnej fali. Niewysokie przetłoczenia uskoku blachodachówki sprawiają, że jest bardzo plastycznym materiałem, a jej montaż nawet na najbardziej skomplikowanych konstrukcjach dachowych nie sprawia problemów. Szerokość krycia rzeczywistego to 1100mm pokrycia dachu na 1195mm blachodachówki, dzięki czemu model ten jest nie tylko praktyczny i efektowny, ale i ekonomiczny.",
@@ -332,11 +387,11 @@
             {"name": "Min. długość arkusza", "value": "850/950 mm"},
             {"name": "Max. długość arkusza", "value": "5 750 mm"}
         ],
-        "image": "blachotrapez/kingas-15.png",
-        "examples": ["blachotrapez/kingas-example1.jpg", "blachotrapez/kingas-example2.jpg"]
+        "image": "blachotrapez/blachodachowka/kingas-15.jpeg",
+        "examples": ["blachotrapez/blachodachowka/kingas-example1.jpg", "blachotrapez/blachodachowka/kingas-example2.jpg"]
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Kingas Eco Plus", 
         "producer": "Blachotrapez", 
         "description": "Model blachodachówki Kingas Eco Plus to blachodachówka o mniejszym przetłoczeniu uskoku (14mm), dzięki czemu wyróżnia się wysokimi parametrami szerokości krycia rzeczywistego - 1195mm daje 1120mm krycia rzeczywistego dachu. Blachodachówka Kingas dzięki formie delikatnej fali doskonale prezentuje się na dachu.",
@@ -351,14 +406,28 @@
             {"name": "Min. długość arkusza", "value": "850/950 mm"},
             {"name": "Max. długość arkusza", "value": "5 750 mm"}
         ],
-        "image": "blachotrapez/kingas-eco-plus.png",
-        "examples": ["blachotrapez/kingas-example1.jpg", "blachotrapez/kingas-example2.jpg"]
+        "image": "blachotrapez/blachodachowka/kingas-eco-plus.jpeg",
+        "examples": ["blachotrapez/blachodachowka/kingas-example1.jpg", "blachotrapez/blachodachowka/kingas-example2.jpg"]
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Venecja", 
         "producer": "Bud-Mat", 
-        "description": "5 dolnych fal i 6 wierzchołków sprawiają, że Venecja podkreśla urodę klasycznych budynków. Montaż ze spinką - stosowany tylko w dachu modułowym Venecja - to gwarancja najbardziej estetycznego pokrycia dachowego. Dzięki spince wkręty mocujące są niewidoczne. Venecja to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. ",
+        "description": "Blachodachówka Venecja posiada 5 dolnych fal i 6 wierzchołków które sprawiają, że podkreśla ona urodę klasycznych budynków. Montaż ze spinką - stosowany tylko w dachu modułowym Venecja - to gwarancja najbardziej estetycznego pokrycia dachowego. Dzięki spince wkręty mocujące są niewidoczne. Fabrycznie przygotowane otwory i miseczki montażowe to nasz patent na dach. Venecja to pionier łatwego montażu. Podtłoczenie wzdłuż przetłoczeń sprawia, że łączenia poprzeczne na dachu są niewidoczne, a arkusz jest dodatkowo usztywniony. Łączymy estetykę z wytrzymałością. Podwinięcie dolnej krawędzi arkusza to rozwiązanie zapewnia lepszy spływ wody z powierzchni dachu, a tym samym zapobiega jej zaleganiu. Ponadto łączenia poprzeczne na dachu są niewidoczne.",
+        "comments": [
+            {
+                "title": "Nawet 50 lat gwarancji",
+                "content": "Venecja to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat."
+            },
+            {
+                "title": "Montaż ze spinką",
+                "content": "Montaż ze spinką - stosowany tylko w dachu modułowym Venecja - to gwarancja najbardziej estetycznego pokrycia dachowego. Dzięki spince wkręty mocujące są niewidoczne."
+            },
+            {
+                "title": "Łatwy i szybki montaż",
+                "content": "Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy."
+            }
+        ],
         "link": "http: //www.budmat.com/pl/produkt/venecja-pierwsza-w-rodzinie-133",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 190 mm"},
@@ -371,14 +440,32 @@
             {"name": "Długość efektywna arkusza", "value": "700 mm"},
             {"name": "Długość modułu", "value": "350 mm"}
         ],
-        "image": "budmat/venecja.jpg",
-        "examples": ["budmat/venecja-example.jpg", "budmat/venecja-example2.jpg"]
+        "image": "budmat/blachodachowka/venecja.jpg",
+        "examples": ["budmat/blachodachowka/venecja-example3.jpg", "budmat/blachodachowka/venecja-example4.jpg", "budmat/blachodachowka/venecja-example.jpg"]
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Murano", 
         "producer": "Bud-Mat", 
-        "description": "Designerski kształt dla śmiałych budynków. 5 płaskich powierzchni i 6 wypukłych fal sprawiają, że Murano to synonim nowoczesności. Murano to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy. ",
+        "description": "Designerski kształt dla śmiałych budynków. 5 płaskich powierzchni i 6 wypukłych fal sprawiają, że Murano to synonim nowoczesności. Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy. Korzystamy tylko z najlepszych materiałów. Naszymi dostawcami są ArcelorMittal – największy producent stali na świecie oraz SSAB – szwedzka huta o światowym zasięgu. Stal oodlega recyklingowi w 100% i można ją przetwarzać w nieskończoność. To czyni ją jednym z najbardziej przyjaznych środowisku materiałów.",
+        "comments": [
+            {
+                "title": "Nawet 50 lat gwarancji",
+                "content": "Murano to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. "
+            },
+            {
+                "title": "Podtłoczenie wzdłuż przetłoczeń",
+                "content": "Dzięki nim łączenia poprzeczne na dachu są niewidoczne, a arkusz jest dodatkowo usztywniony. Łączymy estetykę z wytrzymałością."
+            },
+            {
+                "title": "Podwinięcie dolnej krawędzi arkusza",
+                "content": "To rozwiązanie zapewnia lepszy spływ wody z powierzchni dachu, a tym samym zapobiega jej zaleganiu. Ponadto łączenia poprzeczne na dachu są niewidoczne."
+            },
+            {
+                "title": "Fabrycznie przygotowane otwory i miseczki montażowe",
+                "content": "To one sprawiają, że montaż dachu jest tak prosty. To nasz patent na dach."
+            }
+        ],
         "link": "http: //www.budmat.com/pl/produkt/murano-klasycznie-czy-murano-73",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 196 mm"},
@@ -391,14 +478,32 @@
             {"name": "Długość efektywna arkusza", "value": "700 mm"},
             {"name": "Długość modułu", "value": "350 mm"}
         ],
-        "image": "budmat/murano.jpg",
-        "examples": ["budmat/murano-example.jpg"]
+        "image": "budmat/blachodachowka/murano.jpg",
+        "examples": ["budmat/blachodachowka/murano-example.jpg"]
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Rialto", 
         "producer": "Bud-Mat", 
-        "description": "Rialto stworzy dach, który doda klasy każdemu budynkowi. Wyróżnia go 5 fal dolnych i 5 fal górnych. Elegancja to Rialto. Rialto to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. Korzystamy tylko z najlepszych materiałów. Naszymi dostawcami są ArcelorMittal – największy producent stali na świecie oraz SSAB – szwedzka huta o światowym zasięgu. Stal oodlega recyklingowi w 100% i można ją przetwarzać w nieskończoność. To czyni ją jednym z najbardziej przyjaznych środowisku materiałów.",
+        "description": "Rialto stworzy dach, który doda klasy każdemu budynkowi. Wyróżnia go 5 fal dolnych i 5 fal górnych. Elegancja to Rialto. Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy. Korzystamy tylko z najlepszych materiałów. Naszymi dostawcami są ArcelorMittal – największy producent stali na świecie oraz SSAB – szwedzka huta o światowym zasięgu. Stal oodlega recyklingowi w 100% i można ją przetwarzać w nieskończoność. To czyni ją jednym z najbardziej przyjaznych środowisku materiałów.",
+        "comments": [
+            {
+                "title": "Nawet 50 lat gwarancji",
+                "content": "Rialto to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. "
+            },
+            {
+                "title": "Podtłoczenie wzdłuż przetłoczeń",
+                "content": "Dzięki nim łączenia poprzeczne na dachu są niewidoczne, a arkusz jest dodatkowo usztywniony. Łączymy estetykę z wytrzymałością."
+            },
+            {
+                "title": "Podwinięcie dolnej krawędzi arkusza",
+                "content": "To rozwiązanie zapewnia lepszy spływ wody z powierzchni dachu, a tym samym zapobiega jej zaleganiu. Ponadto łączenia poprzeczne na dachu są niewidoczne."
+            },
+            {
+                "title": "Fabrycznie przygotowane otwory i miseczki montażowe",
+                "content": "To one sprawiają, że montaż dachu jest tak prosty. To nasz patent na dach."
+            }
+        ],
         "link": "http: //www.budmat.com/pl/produkt/rialto-technologia-dla-stylu-188",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 195 mm"},
@@ -411,14 +516,32 @@
             {"name": "Długość efektywna arkusza", "value": "700 mm"},
             {"name": "Długość modułu", "value": "350 mm"}
         ],
-        "image": "budmat/rialto.jpg",
-        "examples": ["budmat/rialto-example.jpg"]
+        "image": "budmat/blachodachowka/rialto.jpg",
+        "examples": ["budmat/blachodachowka/rialto-example.jpg"]
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Bella Sara", 
         "producer": "Bud-Mat", 
-        "description": "6 fal dolnych i 7 wierzchołków sprawiają, że Bella Sara to piękno i uroda dla każdego budynku. Bella Sara posiada najmniejsze arkusze spośród wszystkich dachów modułowych Budmat. To sprawia, że montaż dachu jest najbardziej oszczędny. Bella Sara to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat.",
+        "description": "Bella Sara to 6 fal dolnych i 7 wierzchołków które sprawiają, że to piękno i uroda dla każdego budynku. Bella Sara posiada najmniejsze arkusze spośród wszystkich dachów modułowych Budmat. To sprawia, że montaż dachu jest najbardziej oszczędny. Bella Sara to trwałość i bezpieczeństwo na długie lata. Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy.",
+        "comments": [
+            {
+                "title": "Nawet 50 lat gwarancji",
+                "content": "Bella Sara to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. "
+            },
+            {
+                "title": "Podtłoczenie wzdłuż przetłoczeń",
+                "content": "Dzięki nim łączenia poprzeczne na dachu są niewidoczne, a arkusz jest dodatkowo usztywniony. Łączymy estetykę z wytrzymałością."
+            },
+            {
+                "title": "Podwinięcie dolnej krawędzi arkusza",
+                "content": "To rozwiązanie zapewnia lepszy spływ wody z powierzchni dachu, a tym samym zapobiega jej zaleganiu. Ponadto łączenia poprzeczne na dachu są niewidoczne."
+            },
+            {
+                "title": "Fabrycznie przygotowane otwory i miseczki montażowe",
+                "content": "To one sprawiają, że montaż dachu jest tak prosty. To nasz patent na dach."
+            }
+        ],
         "link": "http: //www.budmat.com/pl/produkt/bella-sara-wiecznie-piekna-189",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 180 mm"},
@@ -431,14 +554,32 @@
             {"name": "Długość efektywna arkusza", "value": "700 mm"},
             {"name": "Długość modułu", "value": "350 mm"}
         ],
-        "image": "budmat/bellasara.jpg",
-        "examples": ["budmat/bella-sara-example.jpg"]
+        "image": "budmat/blachodachowka/bellasara.jpg",
+        "examples": ["budmat/blachodachowka/bella-sara-example.jpg"]
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "Ferrara", 
         "producer": "Bud-Mat", 
-        "description": "Wygląd Ferrary - 4 fale dolne i 5 wierzchołków - przywodzi na myśl klasyczne dachy z ceramiki. Ferrara to elita wśród dachów. Każda powłoka Ferrary to gwarancja powtarzalność koloru - niezależnie od partii materiału. Jako jedyni w Europie posiadamy pisemną gwarancję powtarzalności koloru od ArcelorMittal oraz od SSAB. Ferrara to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 30 lub 50 lat.",
+        "description": "Wygląd Ferrary 4 fale dolne i 5 wierzchołków przywodzi na myśl klasyczne dachy z ceramiki. Ferrara to elita wśród dachów. Każda powłoka Ferrary to gwarancja powtarzalność koloru niezależnie od partii materiału. Jako jedyni w Europie posiadamy pisemną gwarancję powtarzalności koloru od ArcelorMittal oraz od SSAB. Fabryczne otwory montażowe skracają czas pracy na dachu. Pozwalają także na precyzyjne łączenie arkuszy i korektę całej połaci już po ich połączeniu. To nie wszystko. Ekipa dekarska może pracować na kilku połaciach jednocześnie. Nasze rozwiązania są tak dobre, że je opatentowaliśmy.",
+        "comments": [
+            {
+                "title": "Nawet 50 lat gwarancji",
+                "content": "Ferrara to trwałość i bezpieczeństwo na długie lata. W zależności od użytej powłoki gwarancja na ten produkt wynosi 20, 30 lub 50 lat. "
+            },
+            {
+                "title": "Podtłoczenie wzdłuż przetłoczeń",
+                "content": "Dzięki nim łączenia poprzeczne na dachu są niewidoczne, a arkusz jest dodatkowo usztywniony. Łączymy estetykę z wytrzymałością."
+            },
+            {
+                "title": "Podwinięcie dolnej krawędzi arkusza",
+                "content": "To rozwiązanie zapewnia lepszy spływ wody z powierzchni dachu, a tym samym zapobiega jej zaleganiu. Ponadto łączenia poprzeczne na dachu są niewidoczne."
+            },
+            {
+                "title": "Fabrycznie przygotowane otwory i miseczki montażowe",
+                "content": "To one sprawiają, że montaż dachu jest tak prosty. To nasz patent na dach."
+            }
+        ],
         "link": "http: //www.budmat.com/pl/produkt/ferrara-dach-xxi-wieku-190",
         "params": [
             {"name": "Szerokość całkowita arkusza", "value": "1 190 mm"},
@@ -451,11 +592,86 @@
             {"name": "Długość efektywna arkusza", "value": "800 mm"},
             {"name": "Długość modułu", "value": "400 mm"}
         ],
-        "image": "budmat/ferrara.jpg",
-        "examples": ["budmat/ferrara-example.jpg"]
+        "image": "budmat/blachodachowka/ferrara.jpg",
+        "examples": ["budmat/blachodachowka/ferrara-example.jpg"]
     },
     {
-        "id": 22,
+        "id": 23,
+        "name": "Sarra", 
+        "producer": "Bud-Mat", 
+        "description": "Blachodachówka Sara to jedna z najbardziej rozpoznawalnych oraz renomowanych blachodachówek na rynku. Sara dostępna jest w jednym z wielu kolorów - 47 możliwych wariantów kolorów. Dzięki temu idealnie wkomponuje się w otaczającą architekturę.",
+        "comments": [
+            {
+                "title": "Spokój na lata",
+                "content": "Blachodachówka Sara to gwarancja nawet na 30 lat."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/sara-3",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 180 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 100 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia", "value": "20 mm"},
+            {"name": "Wysokość całkowita", "value": "43 mm"},
+            {"name": "Minimalna długość arkusza", "value": "1155 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6505 mm"},
+            {"name": "Długość modułu", "value": "350 | 400 mm"}
+        ],
+        "image": "budmat/blachodachowka/sara.jpg",
+        "examples": ["budmat/blachodachowka/sara-example.jpg"]
+    },
+    {
+        "id": 24,
+        "name": "Aria", 
+        "producer": "Bud-Mat", 
+        "description": "Jedna z najbardziej eleganckich blachodachówek na polskim rynku. Z łatwością dopasujesz pokrycie dachowe do elewacji budynku i jego otoczenia. Aria to szeroka paleta kolorów - 47 możliwych wariantów kolorów, a także kształt, który podkreśli urodę każdego budynku.",
+        "comments": [
+            {
+                "title": "Spokój na lata",
+                "content": "Blachodachówka Aria to gwarancja nawet na 30 lat."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/aria-5",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 140 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 040 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia", "value": "20 mm"},
+            {"name": "Wysokość całkowita", "value": "54 mm"},
+            {"name": "Minimalna długość arkusza", "value": "1155 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6505 mm"},
+            {"name": "Długość modułu", "value": "350 | 400 mm"}
+        ],
+        "image": "budmat/blachodachowka/aria.jpg",
+        "examples": ["budmat/blachodachowka/aria-example.jpg"]
+    },
+    {
+        "id": 25,
+        "name": "Zefir", 
+        "producer": "Bud-Mat", 
+        "description": "Jedna z najbardziej ekonomicznych blachodachówek dostępnych na polskim rynku. Zefir posiada wydłużony moduł to sprawia, że jest to najbardziej ekonomiczna blachodachówka na rynku. Łączymy trwałość z estetyką, łatwość montażu z kolorystyką - 35 możliwych wariantów kolorów. Zefir to piękny dach na wiele lat.",
+        "comments": [
+            {
+                "title": "Spokój na lata",
+                "content": "Blachodachówka Zefir to gwarancja nawet na 30 lat."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/zefir-4",
+        "params": [
+            {"name": "Szerokość całkowita arkusza", "value": "1 180 mm"},
+            {"name": "Szerokość efektywna arkusza", "value": "1 100 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość przetłoczenia", "value": "14 mm"},
+            {"name": "Wysokość całkowita", "value": "37 mm"},
+            {"name": "Minimalna długość arkusza", "value": "1155 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6505 mm"},
+            {"name": "Długość modułu", "value": "350 | 400 mm"}
+        ],
+        "image": "budmat/blachodachowka/zefir.jpg",
+        "examples": ["budmat/blachodachowka/zefir-example.jpg"]
+    },
+    {
+        "id": 26,
         "name": "Classic", 
         "producer": "Novatik", 
         "description": "Blachodachówka panelowa powstała jako odpowiedź na zmieniające się trendy w branży budowlanej, która od zawsze dążyła do stosowania jak najprostszych, ale wyjątkowo skutecznych rozwiązań. Wobec wyzwań na współczesnym rynku budowlanym blachodachówki wychodzą obronną ręką. Z jednej strony są bardzo ekonomiczne i niebywale proste w montażu, a z drugiej potrafią zachwycić swoją formą oraz odpornością na wszelkie czynniki zewnętrzne. Szczególnie przydatne są na dachach o skomplikowanych kształtach, gdzie nie da się zastosować z taką łatwością tradycyjnych, produkowanych na wymiar blachodachówek arkuszowych czy modułowych. To właśnie w takich przypadkach blacha panelowa może pokazać wszystkie swoje możliwości. Przy odpowiedniej wiedzy i dobrym projekcie mogą zostać zmontowane w najbardziej wymyślne kształty bez inwestowania (czasu i pieniędzy) w dodatkową pracę. Dodatkową zaletą blachodachówek panelowych jest ich łatwość w transporcie i rozładunku. Docenią to wszyscy, którzy w swojej karierze musieli się uporać z innymi, niewygodnymi w dostarczaniu oraz montażu pokryciami dachowymi.",
@@ -481,7 +697,7 @@
             {"name": "Długość efektywna arkusza", "value": "800 mm"},
             {"name": "Długość modułu", "value": "400 mm"}
         ],
-        "image": "novatik/novatik-classic.jpg",
-        "examples": ["novatik/novatik-classic-example.jpg"]
+        "image": "novatik/blachodachowka/novatik-classic.jpg",
+        "examples": ["novatik/blachodachowka/novatik-classic-example.jpg", "novatik/blachodachowka/novatik-classic-example2.jpg"]
     }
 ]

@@ -12,13 +12,13 @@ export default class Producers extends Component {
                     <img src="/img/budmat.png" alt="Bud-Mat producent blachodachówki"/>
                 </div>
                 <div className="col-md-6 producer-item">
-                    <img src="/img/plannja2.jpg" alt="Plannja producent blachodachówki"/>
+                    <img src="/img/plannja.jpg" alt="Plannja producent blachodachówki"/>
                 </div>
                 <div className="col-md-6 producer-item">
-                    <img src="/img/blachotrapez3.png" alt="Blachotrapez producent blachodachówki"/>
+                    <img src="/img/blachotrapez.png" alt="Blachotrapez producent blachodachówki"/>
                 </div>
                 <div className="col-md-12 producer-item">
-                    <img src="/img/novatik2.jpg" alt="Novatic producent blachodachówki"/>
+                    <img src="/img/novatik.jpg" alt="Novatic producent blachodachówki"/>
                 </div>
             </div>
         );

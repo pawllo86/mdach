@@ -14,6 +14,7 @@ import Trapezowa from './components/sections/trapezowa';
 import Rabek from './components/sections/rabek';
 import Panele from './components/sections/panele';
 import Dachowka from './components/sections/dachowka';
+import Okna from './components/sections/okna';
 import Rynny from './components/sections/rynny';
 import Akcesoria from './components/sections/akcesoria';
 import Uslugi from './components/sections/uslugi';
@@ -37,6 +38,8 @@ ReactDOM.render(
                     <Route path="/panele/:id" component={Panele} />
                     <Route path="/panele" component={Panele} />
                     <Route path="/dachowka" component={Dachowka} />
+                    <Route path="/okna/:id" component={Okna} />
+                    <Route path="/okna" component={Okna} />
                     <Route path="/rynny" component={Rynny} />
                     <Route path="/akcesoria" component={Akcesoria} />
                     <Route path="/uslugi" component={Uslugi} />

@@ -7,7 +7,7 @@ export default class Header extends Component {
         return (
             <header className="products-header">
                 <div className="container">
-                    <a id="products-back" href="http://wybudowani24.pl/">Strona główna</a>
+                    <a id="products-back" href="http://wybudowani24.pl/"><span className="glyphicon glyphicon-backward"/> Strona główna</a>
                     <img className="logo animated flipInY" src="/img/logo.png" alt="MDACH Logo" />
                 
                     <h2>Oferta Handlowa</h2>

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Producers from '../components/producers';
+import ImageZoom from 'react-medium-image-zoom';
 import { connect } from 'react-redux';
 
 class ProductDetails extends Component {
@@ -14,7 +15,7 @@ class ProductDetails extends Component {
         if (comments) {
             return comments.map((comment => {
                 return (
-                    <div className="well well-sm">
+                    <div className="well well-sm" key={comment.title}>
                         <h5><span className="glyphicon glyphicon-info-sign" /><b> {comment.title}</b></h5>
                         <p>{comment.content}</p>
                     </div>
@@ -39,10 +40,11 @@ class ProductDetails extends Component {
     renderExamples(examples) {
         if (examples) {
             return examples.map((example) => {
+                const imgURL = this.imgBaseURL + example;
                 return (
                     <div key={example} className="col-md-6 img-exaple">
-                        <img src={this.imgBaseURL + example} alt="Przykład użycia produktu" />
-                    </div>
+                        <ImageZoom image={{src: imgURL, alt: 'Przykład użycia materiału'}} zoomImage={{src: imgURL, alt: 'Przykład użycia materiału'}} />
+                    </ div>
                 );
             });
         }
@@ -54,7 +56,9 @@ class ProductDetails extends Component {
         if (!product) {
             return  <Producers />
         }
-        
+        const imgUrl = this.imgBaseURL + product.image;
+        const imgAlt = product.producer + " " + product.name;
+            
         return (
             <div className="product-details">
                 <ul className="nav nav-tabs">
@@ -67,7 +71,7 @@ class ProductDetails extends Component {
                         <h1 className="specification-title">{product.name}</h1>
                         <hr/>
                         <div className="specification-description">
-                            <img src={this.imgBaseURL + product.image} alt={product.producer + " " + product.name} />
+                            <ImageZoom image={{src: imgUrl, alt: imgAlt}} zoomImage={{src: imgUrl, alt: imgAlt}} />
                             <p>{product.description}</p>
                         </div>
             
