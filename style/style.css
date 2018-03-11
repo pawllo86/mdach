@@ -17,6 +17,10 @@ p {
     font-weight: 300;
 }
 
+.fill {
+    height: 100%;
+}
+
 /* HEADER */
 
 #products-back {
@@ -68,7 +72,12 @@ p {
 .navbar .nav.navbar-nav .selected {
     color: #fff;
     background:  #BB0000;
-} 
+}
+
+/* MAIN */
+#main {
+/*    background-image: url(/img/bg.jpg);*/
+}
 
 /* MENU */
 
@@ -167,6 +176,7 @@ p {
     display: block;
     margin: 0 auto;
     max-width: 380px;
+    min-width: 380px;
 }
 
 p.product-link {

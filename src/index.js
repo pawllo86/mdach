@@ -23,10 +23,10 @@ const createStoreWithMiddleware = applyMiddleware(promiseMiddleware)(createStore
 
 ReactDOM.render(
   <Provider store={createStoreWithMiddleware(reducers)}>
-    <div>
-    <Header />
+    <div className="fill">
+        <Header />
         <BrowserRouter>
-            <div>
+            <div id="main" className="fill">
                 <Navigation />
                 <Switch>
                     <Route path="/blachodachowka/:id" component={Blachodachowka} />

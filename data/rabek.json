@@ -32,5 +32,235 @@
         ],
         "image": "ruukki/rabek/classic-silence.jpg",
         "examples": ["ruukki/rabek/classic-silence-example.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Panel Retro 38", 
+        "producer": "Blachotrapez", 
+        "description": "Tradycyjny w wyglądzie i nowoczesny w formie panel dachowy lub elewacyjny z zamkiem zatrzaskowym. Polecany głównie do pokrycia dachów obiektów objętych ochroną konserwatorską i sakralnych, a także nowo budowanych apartamentowców, nowoczesnych budynków jednorodzinnych i użyteczności publicznej. W zależności od planowanego efektu można podkreślić tradycyjny styl budowli, lub uwypuklić jej nowatorski charakter. Klasyka w odmienionej formie, prostolinijna forma, lekkość  i łatwość montażu sprawiają, że panele na rąbek stojący stosowane są w architekturze do pokryć dachowych jak i elewacyjnych.  Doskonale sprawdza się na pokrycie dachów o niskim kącie nachylenia, tworząc niepowtarzalny styl.",
+        "comments": [
+            {
+                "title": "Szybki i łatwy montaż",
+                "content": "Panel z rąbkiem zatrzaskowym dzięki szybkości i prostocie montażu znacznie przewyższa inne blachy, natomiast podwyższona sztywność daje możliwość układania jej na łatach bez konieczności deskowania połaci. Niniejsze zalety pozwalają również na stosowanie tego rodzaju pokrycia jako panele elewacyjne zapewniając oryginalne wykończenie ścian w układzie pionowym i poziomym. Blacha na rąbek stojący tzw. felc ze specjalnie zaprojektowanym zamkiem zatrzaskowym pozwala na szybkie i pewne łączenie paneli bez potrzeby stosowania dodatkowych elementów łączących, zachowując wysoką szczelność. Natomiast rozmieszczenie otworów montażowych wzdłuż rąbka sprawia, że wkręty mocujące są zasłonięte przez sąsiedni panel. Do montażu panelu stosuje się wkręty montażowe lub samowiertne z łbem 4,2x25mm. Ilość wkrętów – 4szt/m2. Oferowana blacha na rąbek pozwala stworzyć dach o wysokiej estetyce bez widocznych mocowań."
+            }
+        ],
+        "link": "https://www.blachotrapez.eu/pl/prtm/58/panel-retro-38",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "~529 / ~315 mm"},
+            {"name": "Szerokość krycia rzeczywistego", "value": "498 / 284 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość rąbka", "value": "38 mm"},
+            {"name": "Minimalna długość arkusza", "value": "1 400 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"}
+        ],
+        "image": "blachotrapez/rabek/retro-38.jpeg",
+        "examples": ["blachotrapez/rabek/retro-38-example1.jpg", "blachotrapez/rabek/retro-38-example2.jpg", "blachotrapez/rabek/retro-38-example3.jpg", "blachotrapez/rabek/retro-38-example4.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "Panel Retro 25", 
+        "producer": "Blachotrapez", 
+        "description": "Tradycyjny w wyglądzie i nowoczesny w formie panel dachowy lub elewacyjny z zamkiem zatrzaskowym. Polecany głównie do pokrycia dachów obiektów objętych ochroną konserwatorską i sakralnych, a także nowo budowanych apartamentowców, nowoczesnych budynków jednorodzinnych i użyteczności publicznej. W zależności od planowanego efektu można podkreślić tradycyjny styl budowli, lub uwypuklić jej nowatorski charakter. Klasyka w odmienionej formie, prostolinijna forma, lekkość  i łatwość montażu sprawiają, że panele na rąbek stojący stosowane są w architekturze do pokryć dachowych jak i elewacyjnych.  Doskonale sprawdza się na pokrycie dachów o niskim kącie nachylenia, tworząc niepowtarzalny styl.",
+        "comments": [
+            {
+                "title": "Szybki i łatwy montaż",
+                "content": "Panel z rąbkiem zatrzaskowym dzięki szybkości i prostocie montażu znacznie przewyższa inne blachy, natomiast podwyższona sztywność daje możliwość układania jej na łatach bez konieczności deskowania połaci. Niniejsze zalety pozwalają również na stosowanie tego rodzaju pokrycia jako panele elewacyjne zapewniając oryginalne wykończenie ścian w układzie pionowym i poziomym. Blacha na rąbek stojący tzw. felc ze specjalnie zaprojektowanym zamkiem zatrzaskowym pozwala na szybkie i pewne łączenie paneli bez potrzeby stosowania dodatkowych elementów łączących, zachowując wysoką szczelność. Natomiast rozmieszczenie otworów montażowych wzdłuż rąbka sprawia, że wkręty mocujące są zasłonięte przez sąsiedni panel. Do montażu panelu stosuje się wkręty montażowe lub samowiertne z łbem 4,2x25mm. Ilość wkrętów – 4szt/m2. Oferowana blacha na rąbek pozwala stworzyć dach o wysokiej estetyce bez widocznych mocowań."
+            }
+        ],
+        "link": "https://www.blachotrapez.eu/pl/prtm/59/panel-retro-25",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "~554 / ~340 / ~239 mm"},
+            {"name": "Szerokość krycia rzeczywistego", "value": "521 / 309 / 209 mm"},
+            {"name": "Grubość blachy", "value": "0,5 mm"},
+            {"name": "Wysokość rąbka", "value": "25 mm"},
+            {"name": "Minimalna długość arkusza", "value": "1 400 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"}
+        ],
+        "image": "blachotrapez/rabek/retro-25.jpeg",
+        "examples": ["blachotrapez/rabek/retro-25-example1.jpg", "blachotrapez/rabek/retro-25-example2.png", "blachotrapez/rabek/retro-25-example3.jpg", "blachotrapez/rabek/retro-25-example4.jpg"]
+    },
+    {
+        "id": 5,
+        "name": "Emka Stal", 
+        "producer": "Plannja", 
+        "description": "Plannja Emka Stal to doskonały materiał nadający się do budowy dachów oraz elewacji. Dzięki właściwościom plastycznym Plannja Emka Stal doskonale sprawdza się na najbardziej wyrafinowanych i skomplikowanych połaciach nowoczesnych oraz zabytkowych obiektów. Miękka blacha może być w dowolny sposób formowana zarówno na prostych, jak i skomplikowanych dachach. Może być również formowana w łuki. Wybierając materiał na pokrycie dachu lub elewacji ważne jest, aby zwrócić uwagę na jego jakość oraz właściwości. Blacha na rąbek Plannja Emka wytwarzana jest z miękkiej szwedzkiej stali ocynkowanej (grubość cynku 350 g/m²) i powlekanej powłoką Plannja Hard Coat 50 Satyna, która objęta jest 30-letnią gwarancją.",
+        "comments": [
+            {
+                "title": "Nowe możliwości dla architektów i wykonawców",
+                "content": "Blacha na rąbek stojący ma wielowiekową tradycję. Ze względu na uniwersalność zastosowania, niebywałą trwałość oraz efektowny wygląd zajmuje ona szczególną pozycję na rynku pokryć dachowych i zyskuje stale rosnącą popularność. Trzy szerokości rolek Plannja Emka dają możliwości realizacji różnorodnych projektów architektonicznych."
+            },
+            {
+                "title": "Szerokość dopasowana do Twoich potrzeb",
+                "content": "Produkty Plannja Emka są dostępne w  szerokościach: 470, 570 i 670 mm.  Zastosowanie mniejszych szerokości „shar” umożliwia uzyskanie efektownego wyglądu dachu i elewacji, jak również ma znaczenie praktyczne – pasy o mniejszej szerokości umożliwiają wzmocnienie miejsc, które są szczególnie narażone na działanie dużych naporów wiatru i zalegającego śniegu."
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blacha-na-rabek/plannja-emka-670-stal/",
+        "params": [
+            {"name": "Szerokość arkusza", "value": "470 / 570 / 670 mm"},
+            {"name": "Szerokość krycia", "value": "395 / 495 / 595 mm"},
+            {"name": "Grubość blachy", "value": "0,6 mm"},
+            {"name": "Wysokość rąbka", "value": "25 mm"},
+            {"name": "Minimalna długość arkusza", "value": "500 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6 500 mm"},
+            {"name": "Minimalny spadek", "value": "3,6°"}
+        ],
+        "image": "plannja/rabek/emka.jpeg",
+        "examples": ["plannja/rabek/emka-stal-example4.jpeg", "plannja/rabek/emka-stal-example5.jpeg", "plannja/rabek/emka-stal-example3.jpeg", "plannja/rabek/emka-stal-example1.jpeg", "plannja/rabek/emka-stal-example2.jpeg"]
+    },
+    {
+        "id": 6,
+        "name": "Emka Aluminium", 
+        "producer": "Plannja", 
+        "description": "Plannja Emka Aluminium doskonale nadaje się do wykonywania dachów i elewacji. Materiałem bazowym jest aluminium o specjalnie dobranym stopie i stanie plastyczności. Posiada bardzo dobrą formowalność umożliwiającą zastosowanie nawet w bardzo skomplikowanych elementach dachu. Doskonale sprawdza się na najbardziej wyrafinowanych i skomplikowanych połaciach nowoczesnych oraz zabytkowych obiektów.",
+        "comments": [
+            {
+                "title": "Nowe możliwości dla architektów i wykonawców",
+                "content": "Blacha na rąbek stojący ma wielowiekową tradycję. Ze względu na uniwersalność zastosowania, niebywałą trwałość oraz efektowny wygląd zajmuje ona szczególną pozycję na rynku pokryć dachowych i zyskuje stale rosnącą popularność. Trzy szerokości rolek Plannja Emka dają możliwości realizacji różnorodnych projektów architektonicznych."
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blacha-na-rabek/plannja-emka-aluminium/",
+        "params": [
+            {"name": "Szerokość arkusza", "value": "610 mm"},
+            {"name": "Szerokość krycia", "value": "535 mm"},
+            {"name": "Grubość blachy", "value": "0,7 mm"},
+            {"name": "Wysokość rąbka", "value": "25 mm"},
+            {"name": "Minimalna długość arkusza", "value": "500 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6 500 mm"},
+            {"name": "Minimalny spadek", "value": "3,6°"}
+        ],
+        "image": "plannja/rabek/emka.jpeg",
+        "examples": ["plannja/rabek/emka-aluminium-example1.jpeg"]
+    },
+    {
+        "id": 7,
+        "name": "Prime Click L", 
+        "producer": "Bud-Mat", 
+        "description": "Panele dachowe wyróżnia klasyczna oraz prosta forma. Sprawdzą się na dachach nowoczesnych i zabytkowych. Są lekkie i wymagają lżejszej konstrukcji dachu, co optymalizuje koszty realizacji. Panele dachowe dzięki charakterystycznym rąbkom oraz specjalnym przetłoczeniom dodatkowo usztywniają dach. To sprawia, że pokrycie jest piękne oraz wyjątkowo trwałe.",
+        "comments": [
+            {
+                "title": "Dostępne powłoki",
+                "content": "Poliester Połysk, Poliester Mat Gruboziarnisty, GreenCoat Nova, GreenCoat Nova Matt, GreenCoat X-Matt, GreenCoat Rough Matt Polyester"
+            },
+            {
+                "title": "Rodzaje wzmocnień",
+                "content": "Rodzaje wzmocnień (wzdłużne przetłoczenie panelu) - w kształcie trapezu; w kształcie trójkąta; bez przetłoczeń wzmacniających (panel gładki)"
+            },
+            {
+                "title": "Dostępne opcje wykonania podwinięcia panelu",
+                "content": "Brak wypustki panelu od strony kalenicy i 50 mm podwinięcie wypustki panelu od strony okapu, rak wypustki panelu od strony kalenicy i 25 mm podwinięcie wypustki panelu od strony okapu, brak wypustek po obu stronach panelu. 25 mm prosta wypustka panelu od strony kalenicy i 25 mm prosta wypustka panelu od strony okapu, 25 mm prosta wypustka panelu od strony kalenicy i 25 mm podwinięcie wypustki panelu od strony okapu."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/prime-click-l-136",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "545 mm"},
+            {"name": "Szerokość efektywna", "value": "515 mm"},
+            {"name": "Grubość blachy", "value": "0,5 - 0,7 mm"},
+            {"name": "Wysokość rąbka", "value": "25 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"},
+            {"name": "Minimalny spadek", "value": "14 %"},
+            {"name": "Powłoka cynku", "value": "min. 275 g/m²"}
+        ],
+        "image": "budmat/rabek/prime-click-l.jpg",
+        "examples": ["budmat/rabek/prime-click-l-example.jpg"]
+    },
+    {
+        "id": 8,
+        "name": "Prime Click S",
+        "producer": "Bud-Mat", 
+        "description": "Panele dachowe wyróżnia klasyczna oraz prosta forma. Sprawdzą się na dachach nowoczesnych i zabytkowych. Są lekkie i wymagają lżejszej konstrukcji dachu, co optymalizuje koszty realizacji. Panele dachowe dzięki charakterystycznym rąbkom oraz specjalnym przetłoczeniom dodatkowo usztywniają dach. To sprawia, że pokrycie jest piękne oraz wyjątkowo trwałe.",
+        "comments": [
+            {
+                "title": "Dostępne powłoki",
+                "content": "Poliester Połysk, Poliester Mat Gruboziarnisty, GreenCoat Nova, GreenCoat Nova Matt, GreenCoat X-Matt, GreenCoat Rough Matt Polyester"
+            },
+            {
+                "title": "Rodzaje wzmocnień",
+                "content": "Rodzaje wzmocnień (wzdłużne przetłoczenie panelu) - w kształcie trapezu; w kształcie trójkąta; bez przetłoczeń wzmacniających (panel gładki)"
+            },
+            {
+                "title": "Dostępne opcje wykonania podwinięcia panelu",
+                "content": "Brak wypustki panelu od strony kalenicy i 50 mm podwinięcie wypustki panelu od strony okapu, rak wypustki panelu od strony kalenicy i 25 mm podwinięcie wypustki panelu od strony okapu, brak wypustek po obu stronach panelu. 25 mm prosta wypustka panelu od strony kalenicy i 25 mm prosta wypustka panelu od strony okapu, 25 mm prosta wypustka panelu od strony kalenicy i 25 mm podwinięcie wypustki panelu od strony okapu."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/prime-click-s-40",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "345 mm"},
+            {"name": "Szerokość efektywna", "value": "307 mm"},
+            {"name": "Grubość blachy", "value": "0,5 - 0,7 mm"},
+            {"name": "Wysokość rąbka", "value": "25 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"},
+            {"name": "Minimalny spadek", "value": "14 %"},
+            {"name": "Powłoka cynku", "value": "min. 275 g/m²"}
+        ],
+        "image": "budmat/rabek/prime-click-s.jpg",
+        "examples": ["budmat/rabek/prime-click-s-example.jpg"]
+    },
+    {
+        "id": 9,
+        "name": "Duo Snap",
+        "producer": "Bud-Mat", 
+        "description": "Panele dachowe wyróżnia klasyczna oraz prosta forma. Sprawdzą się na dachach nowoczesnych i zabytkowych. Są lekkie i wymagają lżejszej konstrukcji dachu, co optymalizuje koszty realizacji. Panele dachowe dzięki charakterystycznym rąbkom oraz specjalnym przetłoczeniom dodatkowo usztywniają dach. To sprawia, że pokrycie jest piękne oraz wyjątkowo trwałe.",
+        "comments": [
+            {
+                "title": "Dostępne powłoki",
+                "content": "Poliester Połysk, Poliester Mat Gruboziarnisty, GreenCoat Nova, GreenCoat Nova Matt, GreenCoat X-Matt, GreenCoat Rough Matt Polyester"
+            },
+            {
+                "title": "Sposób montażu",
+                "content": "Montaż przy pomocy haftr połączony z nowoczesnym systemem zatrzaskowym typu Click. Użycie haftr stałych i ruchomych ułatwia pracę materiału na dachu w zależności od zmieniających się temperatur i warunków atmosferycznych w naszej strefie klimatycznych."
+            },
+            {
+                "title": "Możliwości wykonania",
+                "content": "Wykonywany na specjalne zamówienie Klienta (aluminium, miedź, tytan-cynk). Panel pod tradycyjny rąbek podwójnie zawijany wykonywany jest usługowo."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/duo-snap-41",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "355 / 563 mm"},
+            {"name": "Szerokość efektywna", "value": "342 / 550 mm"},
+            {"name": "Grubość blachy", "value": "0,5 - 0,7 mm"},
+            {"name": "Wysokość rąbka", "value": "25 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"},
+            {"name": "Minimalny spadek", "value": "14 %"},
+            {"name": "Powłoka cynku", "value": "min. 275 g/m²"}
+        ],
+        "image": "budmat/rabek/duo-snap.jpg",
+        "examples": ["budmat/rabek/duo-snap-example.jpg"]
+    },
+    {
+        "id": 10,
+        "name": "Uni Line",
+        "producer": "Bud-Mat", 
+        "description": "Panele dachowe wyróżnia klasyczna oraz prosta forma. Sprawdzą się na dachach nowoczesnych i zabytkowych. Są lekkie i wymagają lżejszej konstrukcji dachu, co optymalizuje koszty realizacji. Panele dachowe dzięki charakterystycznym rąbkom oraz specjalnym przetłoczeniom dodatkowo usztywniają dach. To sprawia, że pokrycie jest piękne oraz wyjątkowo trwałe.",
+        "comments": [
+            {
+                "title": "Dostępne powłoki",
+                "content": "Poliester Połysk, Poliester Mat Gruboziarnisty, GreenCoat Nova, GreenCoat Nova Matt, GreenCoat X-Matt, GreenCoat Rough Matt Polyester"
+            },
+            {
+                "title": "Sposób montażu",
+                "content": "Montaż przy pomocy haftr połączony z nowoczesnym systemem zatrzaskowym typu Click. Użycie haftr stałych i ruchomych ułatwia pracę materiału na dachu w zależności od zmieniających się temperatur i warunków atmosferycznych w naszej strefie klimatycznych."
+            },
+            {
+                "title": "Możliwości wykonania",
+                "content": "Wykonywany na specjalne zamówienie Klienta (aluminium, miedź, tytan-cynk). Panel pod tradycyjny rąbek podwójnie zawijany wykonywany jest usługowo."
+            }
+        ],
+        "link": "http://www.budmat.com/pl/produkt/uni-line-42",
+        "params": [
+            {"name": "Szerokość całkowita", "value": "369 / 586 mm"},
+            {"name": "Szerokość efektywna", "value": "359 / 586 mm"},
+            {"name": "Grubość blachy", "value": "0,6 mm"},
+            {"name": "Wysokość rąbka", "value": "27 mm"},
+            {"name": "Minimalna długość arkusza", "value": "800 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"},
+            {"name": "Minimalny spadek", "value": "6,3 %"},
+            {"name": "Powłoka cynku", "value": "min. 350 g/m²"}
+        ],
+        "image": "budmat/rabek/uni-line.jpg",
+        "examples": ["budmat/rabek/uni-line-example.jpg"]
     }
 ]

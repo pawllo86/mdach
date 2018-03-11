@@ -1,0 +1,48 @@
+ [
+    {
+        "id": 1,
+        "name": "Premium", 
+        "producer": "Novatik", 
+        "description": "Wyjątkowy kształt płaskiej dachówki układanej z przesunięciem – jedyne pokrycie blaszane na rynku, które umożliwia osiągnięcie takiego efektu! Wpisuje się w obecny trend we wzornictwie, który każe wybierać proste i płaskie formy. Uniwersalny w zastosowaniu, ale w szczególności wybierany dla budynków o nowoczesnej architekturze czy budynków energooszczędnych. Dostępny w kolorach grafitowym, czarnym, brązowym, czerwonym i ceglastym.",
+        "comments": [
+            {
+                "title": "Wyjątkowy wygląd paneli",
+                "content": "Dzięki naszym stalowym panelom dachowym można wyróżnić swój dom na tle wszystkich innych w okolicy. Ich wygląd przykuwa uwagę nowoczesnym stylem i zaskakującym kształtem. Jest to możliwe dzięki zastosowaniu technologii pozwalającej na układanie płaskiej dachówki z przesunięciem (Novatik Premium). To bardzo uniwersalne rozwiązanie, które będzie pasować do każdego stylu architektonicznego, nawet do tego najbardziej współczesnego. Posiadamy różne modele paneli dachowych o zróżnicowanej palecie barw. Na pewno sprawdzą się także w innych, bardziej indywidualnych lub tradycyjnych formach budownictwa."
+            },
+            {
+                "title": "Niezwykła łatwość montażu",
+                "content": "Inną istotną cechą każdego oferowanego przez nas panelu dachowego jest prostota montażu. Proponowane przez nas rozwiązanie może znacznie ułatwić instalację pokrycia dachowego, co jest nieocenioną pomocą podczas powstawania każdej inwestycji. Pozwala skrócić czas potrzebny do osiągnięcia zamierzonego efektu. Przy okazji, nowoczesne podejście do montażu sprawia, że stalowy panel dachowy uda się lepiej dopasować do własnych wymagań i wizji. Warto wspomnieć, że w przeciwieństwie do powszechnie dostępnych pokryć dachowych nie trzeba dodatkowo używać uszczelek – najlepsze zabezpieczenia stanowią podgięcia paneli lub obróbek."
+            },
+            {
+                "title": "Doskonała ochrona",
+                "content": "Stalowy panel dachowy Novatik użyty do stworzenia pokrycia to gwarancja wieloletniej trwałości. Odpowiedni montaż paneli sprawia, że polepsza się układ statyczny dachu, co zmniejsza punktowe obciążenia, czyniąc całą konstrukcję znacznie bezpieczniejszą w codziennej eksploatacji. Ponadto naszym panelom dachowym nie straszne są żadne wichury, które coraz częściej pojawiają się na tej szerokości geograficznej – panele Novatik to ochrona przed wiatrem o prędkości nawet 215 km/h. To dzięki temu są jednymi z najbezpieczniejszych paneli dostępnych obecnie na rynku. W kwestii bezpieczeństwa oraz komfortu ważna jest również odporność na inne zmiany pogodowe, jak np. siarczysty mróz. Panel dachowy Novatik nie pęka pod wpływem niskich temperatur oraz nie chłonie wilgoci w miejscach niezabezpieczonych. Dzięki temu pozwala zaoszczędzić na ewentualnych naprawach, których nie da się uniknąć, stosując tradycyjne dachówki ceramiczne czy betonowe."
+            }
+        ],
+        "link": "http://www.novatik.pl/produkty",
+        "image": "novatik/panele/premium.jpg",
+        "examples": ["novatik/panele/premium-example1.jpg", "novatik/panele/premium-example2.jpg", "novatik/panele/premium-example3.jpg", "novatik/panele/premium-example4.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Harnaś", 
+        "producer": "Novatik", 
+        "description": "Przetłoczenie pozwala uzyskać efekt naturalnego gontu drewnianego. Nieregularne przetłoczenia w połączeniu z głęboką matową powłoką sprawiają, że dach prezentuje się wyjątkowo i zdecydowanie wyróżnia się na tle innych sąsiadujących budynków. Z założenia przeznaczony jest dla obiektów o bardziej tradycyjnej architekturze, np. typu dworek. Dostępny w kolorach czarny, grafitowy i brązowy.",
+        "comments": [
+            {
+                "title": "Wyjątkowy wygląd paneli",
+                "content": "Dzięki naszym stalowym panelom dachowym można wyróżnić swój dom na tle wszystkich innych w okolicy. Ich wygląd przykuwa uwagę nowoczesnym stylem i zaskakującym kształtem. Jest to możliwe dzięki zastosowaniu technologii pozwalającej na układanie płaskiej dachówki z przesunięciem (Novatik Premium). To bardzo uniwersalne rozwiązanie, które będzie pasować do każdego stylu architektonicznego, nawet do tego najbardziej współczesnego. Posiadamy różne modele paneli dachowych o zróżnicowanej palecie barw. Na pewno sprawdzą się także w innych, bardziej indywidualnych lub tradycyjnych formach budownictwa."
+            },
+            {
+                "title": "Niezwykła łatwość montażu",
+                "content": "Inną istotną cechą każdego oferowanego przez nas panelu dachowego jest prostota montażu. Proponowane przez nas rozwiązanie może znacznie ułatwić instalację pokrycia dachowego, co jest nieocenioną pomocą podczas powstawania każdej inwestycji. Pozwala skrócić czas potrzebny do osiągnięcia zamierzonego efektu. Przy okazji, nowoczesne podejście do montażu sprawia, że stalowy panel dachowy uda się lepiej dopasować do własnych wymagań i wizji. Warto wspomnieć, że w przeciwieństwie do powszechnie dostępnych pokryć dachowych nie trzeba dodatkowo używać uszczelek – najlepsze zabezpieczenia stanowią podgięcia paneli lub obróbek."
+            },
+            {
+                "title": "Doskonała ochrona",
+                "content": "Stalowy panel dachowy Novatik użyty do stworzenia pokrycia to gwarancja wieloletniej trwałości. Odpowiedni montaż paneli sprawia, że polepsza się układ statyczny dachu, co zmniejsza punktowe obciążenia, czyniąc całą konstrukcję znacznie bezpieczniejszą w codziennej eksploatacji. Ponadto naszym panelom dachowym nie straszne są żadne wichury, które coraz częściej pojawiają się na tej szerokości geograficznej – panele Novatik to ochrona przed wiatrem o prędkości nawet 215 km/h. To dzięki temu są jednymi z najbezpieczniejszych paneli dostępnych obecnie na rynku. W kwestii bezpieczeństwa oraz komfortu ważna jest również odporność na inne zmiany pogodowe, jak np. siarczysty mróz. Panel dachowy Novatik nie pęka pod wpływem niskich temperatur oraz nie chłonie wilgoci w miejscach niezabezpieczonych. Dzięki temu pozwala zaoszczędzić na ewentualnych naprawach, których nie da się uniknąć, stosując tradycyjne dachówki ceramiczne czy betonowe."
+            }
+        ],
+        "link": "http://www.novatik.pl/produkty",
+        "image": "novatik/panele/harnas.jpg",
+        "examples": ["novatik/panele/harnas-example2.jpg", "novatik/panele/harnas-example3.jpg", "novatik/panele/harnas-example.jpg", "novatik/panele/harnas-example4.jpg"]
+    }
+]

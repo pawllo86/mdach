@@ -80,17 +80,20 @@ class ProductDetails extends Component {
                         {this.renderComments(product.comments)}
                         <hr/>
                             
-                        <table className="table table-striped">
-                            <thead>
-                              <tr>
-                                <th>PARAMETR TECHNICZNY PRODUKTU</th>
-                                <th className="product-param-value-title">WARTOŚĆ</th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              {this.renderSpecification(product.params)}
-                            </tbody>
-                        </table>
+                        {
+                            product.params && 
+                            <table className="table table-striped">
+                                <thead>
+                                  <tr>
+                                    <th>PARAMETR TECHNICZNY PRODUKTU</th>
+                                    <th className="product-param-value-title">WARTOŚĆ</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  {this.renderSpecification(product.params)}
+                                </tbody>
+                            </table>
+                        }
 
                         <div className="specification-extra">
                             <a href={product.link}>Przejdź do strony producenta <span className="glyphicon glyphicon-play"/></a>
