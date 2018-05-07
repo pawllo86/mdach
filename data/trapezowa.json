@@ -1,21 +1,148 @@
  [
     {
         "id": 1,
-        "name": "Panel Retro 38", 
-        "producer": "Blachotrapez", 
-        "description": "Tradycyjny w wyglądzie i nowoczesny w formie panel dachowy lub elewacyjny z zamkiem zatrzaskowym. Polecany głównie do pokrycia dachów obiektów objętych ochroną konserwatorską i sakralnych, a także nowo budowanych apartamentowców, nowoczesnych budynków jednorodzinnych i użyteczności publicznej. W zależności od planowanego efektu można podkreślić tradycyjny styl budowli, lub uwypuklić jej nowatorski charakter. Klasyka w odmienionej formie, prostolinijna forma, lekkość  i łatwość montażu sprawiają, że panele na rąbek stojący stosowane są w architekturze do pokryć dachowych jak i elewacyjnych.  Doskonale sprawdza się na pokrycie dachów o niskim kącie nachylenia, tworząc niepowtarzalny styl.",
-        "link": "https: //www.blachotrapez.eu/pl/prtm/8/diament-plus",
-        "params": [
-            {"name": "Szerokość całkowita", "value": "1 150 mm"},
-            {"name": "Szerokość krycia rzeczywistego", "value": "1 045 mm"},
-            {"name": "Grubość blachy", "value": "0,5 mm"},
-            {"name": "Wysokość przetłoczenia uskoku dachówki", "value": "20 mm"},
-            {"name": "Wysokość profilu", "value": "34 mm"},
-            {"name": "Długość modułu dachówki", "value": "850 mm"},
-            {"name": "Minimalna długość arkusza", "value": "850 mm"},
-            {"name": "Maksymalna długość arkusza", "value": "5 750 mm"}
+        "name": "Profil T20", 
+        "producer": "Ruukki",
+        "description": "Profil T20 stanowi oparte na prostych liniach rozwiązanie dla różnorodnych potrzeb dachowych, od współczesnych domów jednorodzinnych po renowacje budynków wiejskich. Ze względu na liniową i sztywną formę arkuszy, Profil T20 cechuje estetyczny i przyjemny wygląd oraz łatwość montażu. Można go układać nie tylko na nowych konstrukcjach, ale na istniejących już krokwiach w przypadku remontów dachów. Blacha trapezowa T20, dostępna jest w klasie jakości Ruukki 50 Plus, Ruukki 40 oraz Ruukki 30. Dla powłoki poliestrowej w klasie jakości Ruukki 30 dostępne są dwa dodatkowe kolory - biały i srebrny.",
+        "comments": [
+            {
+                "title": "Klasa jakości",
+                "content": "Klasa jakości Ruukki 50 Plus oznacza 50 lat gwarancji technicznej oraz 20 lat gwarancji estetycznej. Klasa jakości Ruukki 40 oznacza 40 lat gwarancji technicznej oraz 15 lat gwarancji estetycznej. Klasa jakości Ruukki 30 oznacza 30 lat gwarancji technicznej oraz 10 lat gwarancji estetycznej."
+            }
         ],
-        "image": "blachotrapez/diament-plus.png",
-        "examples": ["blachotrapez/diament-plus-example.jpg"]
+        "link": "https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/profil-T20",
+        "params": [
+            {"name": "Wysokość modułu", "value": "17 mm"},
+            {"name": "Szerokość półki", "value": "28,5 mm"},
+            {"name": "Szerokość efektywna", "value": "1 095 mm"},
+            {"name": "Szerokość całkowita", "value": "1 129 mm"},
+            {"name": "Minimalna długość arkusza", "value": "600 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "12 000 mm"},
+            {"name": "Minimaln spadek dachu", "value": "6°"}
+        ],
+        "image": "ruukki/trapezowa/t20.jpg",
+        "examples": ["ruukki/trapezowa/t20-example1.jpg", "ruukki/trapezowa/t20-example2.jpg", "ruukki/trapezowa/t20-example3.jpg", "ruukki/trapezowa/t20-example4.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Profil T35", 
+        "producer": "Ruukki",
+        "description": "Profil T35 stanowi oparte na prostych liniach rozwiązanie dla różnorodnych potrzeb dachowych, od współczesnych domów jednorodzinnych po renowacje budynków wiejskich. Ze względu na liniową i sztywną formę arkuszy, Profil T35 cechuje estetyczny i przyjemny wygląd oraz łatwość montażu. Można go układać nie tylko na nowych konstrukcjach, ale na istniejących już krokwiach w przypadku remontów dachów. Blacha trapezowa T35, w klasie jakości Ruukki 30, objęta jest 30-letnią gwarancją techniczną oraz 10-letnią gwarancją estetyczną. Powlekana jest powłoką Poliester lub Poliester mat. Dla powłoki poliestrowej dostępne są dwa dodatkowe kolory - biały i srebrny.",
+        "comments": [
+            {
+                "title": "Klasa jakości",
+                "content": "Klasa jakości Ruukki 30 oznacza 30 lat gwarancji technicznej oraz 10 lat gwarancji estetycznej."
+            }
+        ],
+        "link": "https://www.ruukki.com/pol/dachy/produkty/pokrycia-dachowe/pokrycia-dachowe---produkty/profil-T35",
+        "params": [
+            {"name": "Wysokość modułu", "value": "34 mm"},
+            {"name": "Szerokość półki", "value": "40 mm"},
+            {"name": "Szerokość efektywna", "value": "1 035 mm"},
+            {"name": "Szerokość całkowita", "value": "1 073 mm"},
+            {"name": "Minimalna długość arkusza", "value": "600 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "12 000 mm"},
+            {"name": "Minimaln spadek dachu", "value": "4°"}
+        ],
+        "image": "ruukki/trapezowa/t35.jpg",
+        "examples": []
+    },
+    {
+        "id": 3,
+        "name": "Plannja T20", 
+        "producer": "Plannja",
+        "description": "Plannja T20 to popularny profil dachowy do szerokiego zastosowania. Profil jest świetnym rozwiązaniem na domy mieszkalne, budynki gospodarcze jak również hale przemysłowe. Plannja T20 występuj zarówno w opcji dachowej jak i elewacyjnej.",
+        "comments": [
+            {
+                "title": "Gwarancja",
+                "content": "40 lat - Plannja Hard Coat 50 Satyna, 30 lat - Poliester Rough Mat, 30 lat - Poliester"
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blacha-trapezowa/plannja-t20/",
+        "params": [
+            {"name": "Tłoczenie", "value": "17 mm"},
+            {"name": "Grubość rdzenia", "value": "0,5 mm"},
+            {"name": "Szerokość półki", "value": "28,5 mm"},
+            {"name": "Szerokość krycia", "value": "1 095 mm"},
+            {"name": "Szerokość arkusza", "value": "1 129 mm"},
+            {"name": "Minimalna długość arkusza", "value": "600 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "12 000 mm"},
+            {"name": "Minimaln spadek dachu", "value": "6°"}
+        ],
+        "image": "plannja/trapezowa/t20.jpeg",
+        "examples": ["plannja/trapezowa/t20-example.jpeg"]
+    },
+    {
+        "id": 4,
+        "name": "Plannja T35", 
+        "producer": "Plannja",
+        "description": "Plannja T35 to podwyższony profil trapezowy, który doskonale sprawdza się na budynkach gospodarczych i halach przemysłowych. Wyrazisty kształt profilu sprawia, że produkt doskonale sprawdza się na dużych połaciach dachowych.",
+        "comments": [
+            {
+                "title": "Gwarancja",
+                "content": "30 lat - Poliester Rough Mat, 30 lat - Poliester"
+            }
+        ],
+        "link": "http://www.plannja.com.pl/klienci-indywidualni/produkty/blacha-trapezowa/plannja-t35/",
+        "params": [
+            {"name": "Tłoczenie", "value": "34 mm"},
+            {"name": "Grubość rdzenia", "value": "0,5 mm"},
+            {"name": "Szerokość półki", "value": "40 mm"},
+            {"name": "Szerokość krycia", "value": "1 035 mm"},
+            {"name": "Szerokość arkusza", "value": "1 073 mm"},
+            {"name": "Minimalna długość arkusza", "value": "600 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "12 000 mm"},
+            {"name": "Minimaln spadek dachu", "value": "4°"}
+        ],
+        "image": "plannja/trapezowa/t35.jpeg",
+        "examples": ["plannja/trapezowa/t35-example.jpeg"]
+    },
+    {
+        "id": 5,
+        "name": "T-8 elewacja", 
+        "producer": "Blachotrapez",
+        "description": "",
+        "comments": [
+            {
+                "title": "Wytrzymałość powłok ze względu na rodzaj",
+                "content": "Poliester standard (połysk) - 10 lat, PLADUR® Wrinkle mat ThyssenKrupp i PLADUR® Poliester RAL Premium ThyssenKrupp - 25 lat, PLADUR® Relief IceCrystal ThyssenKrupp - 35 lat, Alucynk - 25 lat, Colorcoat HPS200®Ultra do 40 lat, Pladur®Wrinkle Mat Plus - 50 lat, Pladur®Wrinkle Mat Plus - 50 lat, SUPERIOR HB - 30 lat."
+            }
+        ],
+        "link": "https://www.blachotrapez.eu/pl/prtm/13/t-8-elewacja",
+        "params": [
+            {"name": "Wysokość profilu", "value": "7,2 mm"},
+            {"name": "Grubość blachy stal", "value": "0,5-0,6 mm"},
+            {"name": "Grubość blachy aluminium", "value": "0,6 mm"},
+            {"name": "Szerokość półki", "value": "88 mm"},
+            {"name": "Szerokość krycia rzeczywistego", "value": "1 170 mm"},
+            {"name": "Szerokość całkowita", "value": "1 195 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "6 000 mm"}
+        ],
+        "image": "blachotrapez/trapezowa/t8.jpeg",
+        "examples": []
+    },
+    {
+        "id": 6,
+        "name": "T-14 plus dach", 
+        "producer": "Blachotrapez",
+        "description": "Blacha trapezowa jest wyjątkowa dzięki swej prostocie i wyrazistej formie. Pozwala realizować efektowne konstrukcje, które często przełamują tradycyjny podział na dach i fasady",
+        "comments": [
+            {
+                "title": "Wytrzymałość powłok ze względu na rodzaj",
+                "content": "Poliester standard (połysk) - 10 lat, PLADUR® Wrinkle mat ThyssenKrupp i PLADUR® Poliester RAL Premium ThyssenKrupp - 25 lat, PLADUR® Relief IceCrystal ThyssenKrupp - 35 lat, Alucynk - 25 lat, Colorcoat HPS200®Ultra do 40 lat, Pladur®Wrinkle Mat Plus - 50 lat, Pladur®Wrinkle Mat Plus - 50 lat, SUPERIOR HB - 30 lat."
+            }
+        ],
+        "link": "https://www.blachotrapez.eu/pl/prtm/14/t-14-plus",
+        "params": [
+            {"name": "Wysokość profilu", "value": "13,5 mm"},
+            {"name": "Grubość blachy stal", "value": "0,5-0,7 mm"},
+            {"name": "Grubość blachy aluminium", "value": "0,6 mm"},
+            {"name": "Szerokość półki", "value": "44 mm"},
+            {"name": "Szerokość krycia rzeczywistego", "value": "1 099 mm"},
+            {"name": "Szerokość całkowita", "value": "1 140 mm"},
+            {"name": "Maksymalna długość arkusza", "value": "8 000 mm"}
+        ],
+        "image": "blachotrapez/trapezowa/t14.jpeg",
+        "examples": []
     }
 ]
